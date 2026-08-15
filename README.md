@@ -1,5 +1,7 @@
 # Data for: Deep Reinforcement Learning for Battery Energy Storage Dispatch Under Electricity Market Volatility: A Systematic Review
 
+[![DOI](https://zenodo.org/badge/1334762034.svg)](https://doi.org/10.5281/zenodo.21941818)
+
 Data underlying a PRISMA 2020 systematic review of 28 studies (2021–2025)
 applying deep reinforcement learning to profit-driven battery energy storage
 dispatch. Database searches (Scopus, Web of Science, IEEE Xplore,
