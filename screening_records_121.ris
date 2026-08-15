@@ -1,0 +1,4652 @@
+TY  - CONF
+TI  - A Machine Learning Approach for Prosumer Management in Intraday Electricity Markets
+AU  - Mohammadi, S.
+AU  - Hesamzadeh, M.R.
+T2  - 2022 IEEE Workshop on Complexity in Engineering, COMPENG 2022
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/COMPENG50184.2022.9905458
+UR  - https://www.scopus.com/pages/publications/85141077948?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Electric batteries
+KW  - Electricity prices
+KW  - intraday electricity market
+KW  - Intraday electricity market
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - machine learning
+KW  - Machine learning approaches
+KW  - Machine-learning
+KW  - Markov processes
+KW  - Optimization
+KW  - Power markets
+KW  - Power price
+KW  - prosumer
+KW  - Prosumer
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - solar energy
+KW  - Solar energy
+KW  - Uncertainty
+KW  - Wind electricity
+KW  - wind power
+KW  - Wind power
+KW  - Q-learning
+KW  - Electricity supply industry
+KW  - Wind power generation
+KW  - Radiation effects
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - AI-Driven Control and Optimization in DC PV-Wind-Battery Microgrids
+AU  - Sayed, S.T.
+AU  - Sayed, K.
+AU  - Khamis, M.
+AU  - Mohamed, M.A.
+T2  - Proceedings of the International Middle East Power System Conference, MEPCON
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/MEPCON66918.2026.11360235
+IS  - 2025
+UR  - https://www.scopus.com/pages/publications/105033219500?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - Digital storage
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Machine-learning
+KW  - Optimization
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Artificial intelligence
+KW  - Artificial Neural Networks
+KW  - Battery energy storage
+KW  - Battery management systems
+KW  - Behavioral research
+KW  - Decision making
+KW  - Deep learning
+KW  - Direct current
+KW  - Direct-current
+KW  - Electric load dispatching
+KW  - Electric machine control
+KW  - Energy forecasting
+KW  - Forecasting
+KW  - Machine learning
+KW  - Microgrids
+KW  - Neural-networks
+KW  - photovoltaic
+KW  - Photovoltaics
+KW  - Power control
+KW  - Reinforcement Learning
+KW  - Renewable energies
+KW  - Renewable energy forecasting
+KW  - Secondary batteries
+KW  - Support vector machines
+KW  - Support Vector Machines
+KW  - Support vectors machine
+KW  - Unsupervised learning
+KW  - Voltage regulators
+KW  - Real-time systems
+KW  - Renewable energy sources
+KW  - Power system stability
+KW  - Batteries
+KW  - Power system reliability
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - 2nd International Conference on Neural Computing for Advanced Applications, NCAA 2021
+T2  - Communications in Computer and Information Science
+DA  - 2021///
+PY  - 2021
+VL  - 1449
+UR  - https://www.scopus.com/pages/publications/85115168368?origin=resultslist
+DB  - Scopus
+KW  - E6
+ER  - 
+
+TY  - JOUR
+TI  - A Strategic Day-ahead bidding strategy and operation for battery energy storage system by reinforcement learning
+AU  - Dong, Y.
+AU  - Dong, Z.
+AU  - Zhao, T.
+AU  - Ding, Z.
+T2  - Electric Power Systems Research
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.epsr.2021.107229
+VL  - 196
+UR  - https://www.scopus.com/pages/publications/85104141273?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Markov processes
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Secondary batteries
+KW  - Approximation algorithms
+KW  - Battery energy storage system (BESS)
+KW  - Bidding strategy
+KW  - Day-ahead
+KW  - E. automations
+KW  - Markov Decision Processes
+KW  - Power market bidding
+KW  - Profitability
+KW  - Smart grid
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Total profits
+KW  - MODEL
+KW  - CARBON CAPTURE
+KW  - ELECTRICITY MARKETS
+KW  - POWER
+KW  - RISK
+KW  - STATE
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - LLM-coordination in auto-bidding of frequency regulation: Cross-attention distributional reinforcement agentic learning
+AU  - Zhang, B.
+AU  - Li, C.
+AU  - Chen, G.
+AU  - Xu, Z.
+AU  - Dong, Z.
+T2  - Applied Energy
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.apenergy.2025.126702
+VL  - 401
+UR  - https://www.scopus.com/pages/publications/105016721332?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Digital storage
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - machine learning
+KW  - Power markets
+KW  - Reinforcement learnings
+KW  - Deep learning
+KW  - Bidding strategy
+KW  - Profitability
+KW  - algorithm
+KW  - Ancillary services markets
+KW  - Australia
+KW  - Capital investment
+KW  - Cross-attention
+KW  - data set
+KW  - Distributional deep reinforcement learning
+KW  - energy storage
+KW  - Frequency regulation
+KW  - Frequency regulations
+KW  - Investments
+KW  - Language model
+KW  - Large language model coordination
+KW  - market system
+KW  - Multi agent systems
+KW  - numerical model
+KW  - optimization
+KW  - profitability
+KW  - ENERGY
+KW  - OPERATION
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Deep reinforcement learning for economic battery dispatch: A comprehensive comparison of algorithms and experiment design choices
+AU  - Sage, M.
+AU  - Zhao, Y.F.
+T2  - Journal of Energy Storage
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.est.2025.115428
+VL  - 115
+UR  - https://www.scopus.com/pages/publications/85218621363?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery energy storage
+KW  - Renewable energies
+KW  - Comprehensive comparisons
+KW  - Data based controls
+KW  - Data-based control
+KW  - Deep reinforcement learning
+KW  - Economic dispatch
+KW  - Economic Dispatch
+KW  - Experiment design
+KW  - Model experiments
+KW  - Reinforcement learning models
+KW  - Renewable energy
+KW  - Time counters
+KW  - WIND
+KW  - REANALYSIS
+KW  - ENERGY-STORAGE SYSTEM
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Optimal Dispatch of Integrated Energy Systems Based on Deep Reinforcement Learning
+AU  - Kuang, D.
+AU  - Ruan, Y.
+AU  - Meng, H.
+AU  - Xu, T.
+AU  - Yao, Y.
+AU  - Wang, C.
+AU  - Liu, W.
+T2  - Energy Proceedings
+DA  - 2025///
+PY  - 2025
+VL  - 60
+UR  - https://www.scopus.com/pages/publications/105031481042?origin=resultslist
+DB  - Scopus
+KW  - DQN
+KW  - economic dispatch
+KW  - integrated energy system
+KW  - TD3
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Energy Storage Conference 2023, ESC 2023
+T2  - IET Conference Proceedings
+DA  - 2023///
+PY  - 2023
+VL  - 2023
+IS  - 28
+UR  - https://www.scopus.com/pages/publications/85188308790?origin=resultslist
+DB  - Scopus
+KW  - E6
+ER  - 
+
+TY  - JOUR
+TI  - A novel deep reinforcement learning framework for optimal scheduling of low-carbon integrated energy systems considering battery degradation
+AU  - Li, F.
+AU  - Hou, H.
+AU  - Ni, T.
+AU  - Wang, P.
+AU  - Wang, Y.
+AU  - Li, Z.
+AU  - Pouresmaeil, E.
+T2  - Energy
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.energy.2025.139476
+VL  - 341
+UR  - https://www.scopus.com/pages/publications/105023830938?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Learning systems
+KW  - machine learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Deep learning
+KW  - Electric load dispatching
+KW  - Neural-networks
+KW  - Secondary batteries
+KW  - Stochastic systems
+KW  - energy storage
+KW  - Deep reinforcement learning
+KW  - Economic Dispatch
+KW  - Renewable energy
+KW  - alternative energy
+KW  - artificial neural network
+KW  - battery
+KW  - Battery energy storage system degradation
+KW  - Carbon
+KW  - Improved diffusion neural network
+KW  - Integrated energy systems
+KW  - Low-carbon economic
+KW  - Low-carbon economic dispatch
+KW  - Neural networks
+KW  - penetration
+KW  - System degradation
+KW  - Transfer learning
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Learning-based Optimization of Active Distribution System Dispatch in Industrial Park Considering the Peak Operation Demand of Power Grid
+AU  - Tang, H.
+AU  - Liu, C.
+AU  - Yang, M.
+AU  - Tang, B.-Q.
+AU  - Xu, D.
+AU  - Lv, K.
+T2  - Zidonghua Xuebao/Acta Automatica Sinica
+DA  - 2021///
+PY  - 2021
+DO  - 10.16383/j.aas.c190079
+VL  - 47
+IS  - 10
+SP  - 2449
+EP  - 2463
+ST  - 考虑电网调峰需求的工业园区主动配电系统调度学习优化
+UR  - https://www.scopus.com/pages/publications/85119889111?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Markov processes
+KW  - Reinforcement learning
+KW  - Electric load dispatching
+KW  - Photovoltaics
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Active distribution system
+KW  - Active distribution systems
+KW  - Charging (batteries)
+KW  - Dynamic programming
+KW  - Electric power transmission networks
+KW  - Electric vehicles
+KW  - Energy storage
+KW  - Flexible loads
+KW  - Flow batteries
+KW  - Industrial parks
+KW  - Multiple type of flexible load
+KW  - Multiple types of flexible load
+KW  - Peak operation
+KW  - Power grids
+KW  - Scheduling
+KW  - Vanadium redox batteries
+KW  - Vanadium redox battery  energy storage system
+KW  - Vanadium redox battery (VRB) energy storage system
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Expert Incorporated Deep Reinforcement Learning Approach for Market Arbitrage Strategy of the Battery Energy Storage
+AU  - Zhang, B.
+AU  - Yi, Z.
+AU  - Xu, Y.
+AU  - Xu, J.
+AU  - Lu, Y.
+AU  - Zhou, Y.
+T2  - 2023 IEEE 7th Conference on Energy Internet and Energy System Integration, EI2 2023
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/EI259745.2023.10513107
+SP  - 1709
+EP  - 1714
+UR  - https://www.scopus.com/pages/publications/85194176659?origin=resultslist
+DB  - Scopus
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Markov processes
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery energy storage
+KW  - Deep learning
+KW  - Power control
+KW  - Secondary batteries
+KW  - Profitability
+KW  - Deep reinforcement learning
+KW  - Battery storage system
+KW  - Commerce
+KW  - deep reinforcement learning
+KW  - energy storage system
+KW  - Energy storage system
+KW  - expert experience
+KW  - Expert experience
+KW  - market arbitrage
+KW  - Market arbitrage
+KW  - Numerical methods
+KW  - Optimal control systems
+KW  - Peak- valley
+KW  - Reinforcement learning approach
+KW  - Storage systems
+KW  - Training
+KW  - Optimal control
+KW  - Optimization methods
+KW  - System integration
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Grid-edge optimization and control with machine learning
+AU  - Dubey, A.
+AU  - Glover, D.
+AU  - Krishnamoorthy, G.
+T2  - Big Data Application in Power Systems, Second Edition
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/B978-0-443-21524-7.00014-1
+SP  - 161
+EP  - 188
+UR  - https://www.scopus.com/pages/publications/85216420150?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Reinforcement learning
+KW  - Distributed energy resources
+KW  - Electric power distribution systems
+KW  - Grid-edge coordination
+KW  - Optimal power flow
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Safe Reinforcement Learning-Based Energy Scheduling in Smart Ev Charging Stations
+AU  - Yu, J.
+AU  - Wan, Y.
+AU  - Li, S.
+AU  - Li, F.
+T2  - 2025 IEEE 4th International Conference on Industrial Electronics for Sustainable Energy Systems, IESES 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/IESES66335.2025.11359894
+SP  - 394
+EP  - 399
+UR  - https://www.scopus.com/pages/publications/105033531089?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Markov processes
+KW  - Optimization
+KW  - Reinforcement learnings
+KW  - Uncertainty
+KW  - Machine learning
+KW  - Renewable energies
+KW  - Charging (batteries)
+KW  - Electric power transmission networks
+KW  - Power grids
+KW  - Charging stations
+KW  - CMDP
+KW  - Constrained Markov decision process
+KW  - Electric power system stability
+KW  - Electric vehicle charging
+KW  - Energy
+KW  - Energy policy
+KW  - Energy scheduling
+KW  - EV
+KW  - EVs
+KW  - renewable energy
+KW  - Safe reinforcement learning
+KW  - Scheduling problem
+KW  - SRL
+KW  - Variational techniques
+KW  - Renewable energy sources
+KW  - Power system stability
+KW  - Stability analysis
+KW  - Simulation
+KW  - Job shop scheduling
+KW  - Numerical stability
+KW  - Smart charging
+KW  - E5
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Objective-Based Multi-Heterogeneous- Agent Deep Reinforcement Learning for Minimization of Voltage Deviation and Operation Cost in Active Distribution System
+AU  - Deanseekeaw, A.
+AU  - Pinthurat, W.
+AU  - Marungsri, B.
+T2  - IEEE Access
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3565123
+VL  - 13
+SP  - 75648
+EP  - 75665
+UR  - https://www.scopus.com/pages/publications/105004040506?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Optimization
+KW  - Reinforcement learnings
+KW  - Battery management systems
+KW  - Deep reinforcement learning
+KW  - battery energy storage system
+KW  - Costs reduction
+KW  - diesel generator
+KW  - Diesel generators
+KW  - Distributed Wind
+KW  - microgrid
+KW  - Microgrid
+KW  - Multi agent
+KW  - Multi-agent deep reinforcement learning
+KW  - Multiobjective optimization
+KW  - operation cost reduction
+KW  - Operation cost reduction
+KW  - Operations cost
+KW  - Power management (telecommunication)
+KW  - Solar fuels
+KW  - voltage control
+KW  - Voltage deviations
+KW  - Voltage control
+KW  - Heuristic algorithms
+KW  - Costs
+KW  - Power system dynamics
+KW  - Generators
+KW  - Real-time systems
+KW  - FRAMEWORK
+KW  - DISTRIBUTION NETWORKS
+KW  - OPTIMIZATION
+KW  - POWER
+KW  - Adaptation models
+KW  - OPTIMAL PLACEMENT
+KW  - Renewable energy sources
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - The economic dispatch of power-To-gas systems with deep reinforcement learning: Tackling the challenge of delayed rewards with long-Term energy storage
+AU  - Sage, M.
+AU  - Al Handawi, K.
+AU  - Zhao, Y.F.
+T2  - Proceedings of ASME 2025 19th International Conference on Energy Sustainability, ES 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1115/ES2025-156635
+UR  - https://www.scopus.com/pages/publications/105018576056?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Learning systems
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Decision making
+KW  - Deep learning
+KW  - Electric load dispatching
+KW  - Deep reinforcement learning
+KW  - Economic Dispatch
+KW  - Energy
+KW  - Complex networks
+KW  - Cost effective
+KW  - Cost effectiveness
+KW  - Data storage equipment
+KW  - deep learning
+KW  - Delayed rewards
+KW  - Electric energy storage
+KW  - Electric power system economics
+KW  - Energy conversion
+KW  - optimal economic dispatch
+KW  - Optimal economic dispatch
+KW  - Power
+KW  - Power-toga
+KW  - power-Togas
+KW  - power-to-gas
+KW  - WIND
+KW  - E6
+ER  - 
+
+TY  - JOUR
+TI  - Physics-Guided Multi-Agent Adversarial Reinforcement Learning for Robust Active Voltage Control With Peer-to-Peer (P2P) Energy Trading
+AU  - Chen, P.
+AU  - Liu, S.
+AU  - Wang, X.
+AU  - Kamwa, I.
+T2  - IEEE Transactions on Power Systems
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/TPWRS.2024.3369591
+VL  - 39
+IS  - 6
+SP  - 7089
+EP  - 7101
+UR  - https://www.scopus.com/pages/publications/85186962801?origin=resultslist
+DB  - Scopus
+KW  - Digital storage
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Deep learning
+KW  - Voltage regulators
+KW  - Profitability
+KW  - Multi agent systems
+KW  - Deep reinforcement learning
+KW  - Multi agent
+KW  - Multi-agent deep reinforcement learning
+KW  - Distributed computer systems
+KW  - Distribution network
+KW  - Electric load flow
+KW  - Electric power distribution
+KW  - Energy trading
+KW  - Fluctuation
+KW  - Game
+KW  - Jacobian matrices
+KW  - multi-agent deep reinforcement learning
+KW  - P2P energy trading
+KW  - Peer to peer networks
+KW  - Peer-to-peer computing
+KW  - Reactive power
+KW  - Regulation
+KW  - Voltage control
+KW  - voltage regulation
+KW  - OPERATION
+KW  - DISTRIBUTION NETWORKS
+KW  - OPTIMIZATION
+KW  - Fluctuations
+KW  - Games
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Battery Scheduling Control of a Microgrid Trading with Utility Grid Using Deep Reinforcement Learning
+AU  - Mohamed, M.
+AU  - Tsuji, T.
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+DA  - 2023///
+PY  - 2023
+DO  - 10.1002/tee.23768
+VL  - 18
+IS  - 5
+SP  - 665
+EP  - 677
+UR  - https://www.scopus.com/pages/publications/85147573041?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Electric batteries
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Solar energy
+KW  - Uncertainty
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - deep reinforcement learning
+KW  - microgrid
+KW  - Microgrid
+KW  - Energy trading
+KW  - battery energy storage systems
+KW  - Electric loads
+KW  - Electric power system control
+KW  - Electricity load
+KW  - energy trading
+KW  - Linear programming
+KW  - Scheduling control
+KW  - solar power
+KW  - Utility grids
+KW  - Variable renewable energies
+KW  - ENERGY
+KW  - MANAGEMENT
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Battery Energy Storage Control Using Reinforcement Learning
+AU  - Basso, E.
+AU  - Du, Y.
+T2  - 2023 International Future Energy Electronics Conference, IFEEC 2023
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/IFEEC58486.2023.10458579
+SP  - 435
+EP  - 439
+UR  - https://www.scopus.com/pages/publications/85189751537?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Electric batteries
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery energy storage
+KW  - Reinforcement Learning
+KW  - Profitability
+KW  - Cost effectiveness
+KW  - Battery Energy Storage System
+KW  - Controllers
+KW  - Learning controllers
+KW  - Matlab/simulink
+KW  - Matlab/Simulink
+KW  - PV installations
+KW  - Renewable Power
+KW  - Simulink
+KW  - Solar PVs
+KW  - Storage control
+KW  - Electricity supply industry
+KW  - Renewable energy sources
+KW  - Mathematical models
+KW  - Fluctuations
+KW  - Energy consumption
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - An Improved Reinforcement Learning for Security-Constrained Economic Dispatch of Battery Energy Storage in Microgrids
+AU  - Zha, Z.
+AU  - Wang, B.
+AU  - Fan, H.
+AU  - Liu, L.
+T2  - Communications in Computer and Information Science
+DA  - 2021///
+PY  - 2021
+DO  - 10.1007/978-981-16-5188-5_22
+VL  - 1449
+SP  - 303
+EP  - 318
+UR  - https://www.scopus.com/pages/publications/85115156056?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Electric batteries
+KW  - Learning algorithms
+KW  - Reinforcement learning
+KW  - Battery energy storage
+KW  - Electric load dispatching
+KW  - Microgrids
+KW  - Energy storage
+KW  - Scheduling
+KW  - Microgrid
+KW  - Constrained optimization
+KW  - Energy resources
+KW  - Life cycle
+KW  - Peak load shifting
+KW  - Real time decisions
+KW  - Renewable energy resources
+KW  - Security constrained economic dispatch
+KW  - Security controls
+KW  - Security-constrained economic dispatch
+KW  - Stochastic optimization problems
+KW  - Trial and error learning
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - A hybrid HBA-tuned DDPG reinforcement learning strategy for intelligent load frequency control in multi-area hybrid power systems
+AU  - Shukla, S.
+AU  - Jha, S.K.
+T2  - Computers and Electrical Engineering
+DA  - 2026///
+PY  - 2026
+DO  - 10.1016/j.compeleceng.2026.110945
+VL  - 131
+UR  - https://www.scopus.com/pages/publications/105027934917?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Electric batteries
+KW  - Learning algorithms
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Wind power
+KW  - Power control
+KW  - Frequency regulations
+KW  - Deep reinforcement learning
+KW  - Electric power transmission networks
+KW  - Energy storage
+KW  - Electric power system control
+KW  - Deep deterministic policy gradient
+KW  - Deterministics
+KW  - Electric control equipment
+KW  - Electric frequency control
+KW  - Electric load management
+KW  - Food products
+KW  - Heuristic algorithms
+KW  - Honey badger algorithm
+KW  - Hybrid power
+KW  - Hybrid power system
+KW  - Intelligent control
+KW  - Intelligent frequency regulation
+KW  - Linear control systems
+KW  - Load frequency control
+KW  - Load-frequency control
+KW  - Non linear control
+KW  - Non-Linear Control System
+KW  - Policy gradient
+KW  - Reinforcement learning based control
+KW  - Smart power grids
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Electricity-heat collaborative optimization strategy in microgrid using deep reinforcement learning
+AU  - Hanmei, M.
+AU  - Mingyue, S.
+AU  - Yanhong, J.
+AU  - Qian, W.
+AU  - Yirong, W.
+T2  - Proceedings - 2021 IEEE International Conference on Energy Internet, ICEI 2021
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ICEI52466.2021.00008
+SP  - 6
+EP  - 12
+UR  - https://www.scopus.com/pages/publications/85127072763?origin=resultslist
+DB  - Scopus
+KW  - Markov processes
+KW  - Reinforcement learning
+KW  - Battery energy storage
+KW  - Deep learning
+KW  - Microgrids
+KW  - microgrid
+KW  - Microgrid
+KW  - Deep deterministic policy gradient
+KW  - Deterministics
+KW  - Policy gradient
+KW  - battery energy storages
+KW  - Centralised
+KW  - Cost reduction
+KW  - deep deterministic policy gradient
+KW  - Electricity-heat collaborative optimization
+KW  - Heating
+KW  - Heating power
+KW  - Operating costs
+KW  - Optimisations
+KW  - Optimization strategy
+KW  - Costs
+KW  - Renewable energy sources
+KW  - Stability analysis
+KW  - Collaboration
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Environment-Adaptive Online Learning for Portable Energy Storage Based on Porous Electrode Model
+AU  - He, G.
+AU  - Ding, Y.
+AU  - Wu, Z.
+AU  - Chen, X.
+AU  - Zhang, D.
+AU  - Song, J.
+T2  - IEEE Transactions on Automation Science and Engineering
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/TASE.2024.3485541
+VL  - 22
+SP  - 8386
+EP  - 8399
+UR  - https://www.scopus.com/pages/publications/105001590607?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - Reinforcement learning
+KW  - Battery energy storage
+KW  - Battery management systems
+KW  - Decision making
+KW  - Neural-networks
+KW  - Deep reinforcement learning
+KW  - Neural networks
+KW  - Storage systems
+KW  - Adaptive online learning
+KW  - Battery degradation
+KW  - Benchmarking
+KW  - Charge storage
+KW  - Competitive intelligence
+KW  - Deep neural networks
+KW  - degradation
+KW  - Finance
+KW  - Job analysis
+KW  - neural network
+KW  - online learning
+KW  - Online learning
+KW  - Portable energy
+KW  - portable energy storage system
+KW  - Portable energy storage system
+KW  - Quality of service
+KW  - Risk management
+KW  - Six sigma
+KW  - State of charge
+KW  - State of health
+KW  - States of charges
+KW  - Total quality management
+KW  - Voltage scaling
+KW  - Real-time systems
+KW  - SYSTEMS
+KW  - STATE
+KW  - Adaptation models
+KW  - Load modeling
+KW  - CAPACITY
+KW  - Batteries
+KW  - Degradation
+KW  - AGING MECHANISMS
+KW  - CALENDAR
+KW  - CELLS
+KW  - CYCLE-LIFE
+KW  - DEGRADATION
+KW  - LITHIUM-ION BATTERY
+KW  - OF-HEALTH ESTIMATION
+KW  - Integrated circuit modeling
+KW  - Predictive models
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Model-Based Reinforcement Learning for Distributed Energy Trading in Data Center Microgrids
+AU  - Hao, Q.
+T2  - 2025 5th International Conference on Intelligent Power and Systems, ICIPS 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ICIPS67876.2025.11331999
+SP  - 239
+EP  - 242
+UR  - https://www.scopus.com/pages/publications/105034492737?origin=resultslist
+DB  - Scopus
+KW  - Digital storage
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Microgrids
+KW  - Renewable energies
+KW  - Carbon
+KW  - Microgrid
+KW  - Distributed computer systems
+KW  - Energy trading
+KW  - Cost reduction
+KW  - Datacenter
+KW  - Distributed data
+KW  - Distributed data center microgrid
+KW  - Distributed Data Center Microgrid
+KW  - Distributed energies
+KW  - Distributed energy
+KW  - Green computing
+KW  - Information management
+KW  - Low carbon
+KW  - MAMBET
+KW  - Model-based reinforcement learning
+KW  - Renewable Energy
+KW  - Zero-carbon
+KW  - Costs
+KW  - Renewable energy sources
+KW  - Couplings
+KW  - Energy management
+KW  - Data centers
+KW  - Data models
+KW  - Carbon dioxide
+KW  - Complexity theory
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Benchmarking Genetic Algorithms for Short-Term Battery Energy Storage Systems Optimization
+AU  - Giannuzzo, L.
+AU  - Massano, M.
+AU  - Schiera, D.S.
+AU  - Minuto, F.D.
+AU  - Papurello, D.
+AU  - Meneghetti, F.
+AU  - Lanzini, A.
+T2  - Proceedings - 2025 IEEE 49th Annual Computers, Software, and Applications Conference, COMPSAC 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/COMPSAC65507.2025.00287
+SP  - 2053
+EP  - 2059
+UR  - https://www.scopus.com/pages/publications/105016234424?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Digital storage
+KW  - Learning algorithms
+KW  - Power markets
+KW  - Deep learning
+KW  - Storage systems
+KW  - Electric energy storage
+KW  - Linear programming
+KW  - Heuristic algorithms
+KW  - Optimisations
+KW  - Benchmarking
+KW  - BESS
+KW  - Costs
+KW  - End-users
+KW  - Genetic algorithms
+KW  - Genetic Algorithms
+KW  - Operation and management
+KW  - Optimal management
+KW  - Optimal operation
+KW  - Short-term optimization
+KW  - Short-term Optimization
+KW  - Storage management
+KW  - Storage units
+KW  - System optimizations
+KW  - Electricity
+KW  - Load modeling
+KW  - Photovoltaic systems
+KW  - Machine learning algorithms
+KW  - Metaheuristics
+KW  - Prediction algorithms
+KW  - Software algorithms
+KW  - Springs
+KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - AI-Driven Virtual Power Plants: A Comprehensive Review
+AU  - Li, J.
+AU  - Wang, C.
+AU  - Liu, Y.
+T2  - Energies
+DA  - 2026///
+PY  - 2026
+DO  - 10.3390/en19041084
+VL  - 19
+IS  - 4
+UR  - https://www.scopus.com/pages/publications/105031048816?origin=resultslist
+DB  - Scopus
+KW  - Digital storage
+KW  - Learning systems
+KW  - machine learning
+KW  - Machine-learning
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Wind power
+KW  - Artificial intelligence
+KW  - Deep learning
+KW  - Photovoltaics
+KW  - Multi agent systems
+KW  - deep learning
+KW  - Electric energy storage
+KW  - Electric power system control
+KW  - Distributed energy
+KW  - artificial intelligence (AI)
+KW  - Digital twin
+KW  - Distributed energy resource
+KW  - Distributed Energy Resources
+KW  - distributed energy resources (DERs)
+KW  - Ecosystems
+KW  - Electronic data interchange
+KW  - Electronic trading
+KW  - Intelligent agents
+KW  - Power batteries
+KW  - Scalability
+KW  - Virtual power plant
+KW  - Virtual power plants
+KW  - Virtual Power Plants
+KW  - virtual power plants (VPPs)
+KW  - SYSTEM
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement Learning for Battery-Integrated Energy Systems Control: A Comprehensive Review
+AU  - Rehman, A.U.
+AU  - Sanjari, M.J.
+AU  - Lu, J.
+AU  - Du, B.
+T2  - Australasian Universities Power Engineering Conference, AUPEC
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/AUPEC66173.2025.11219647
+IS  - 2025
+UR  - https://www.scopus.com/pages/publications/105031075200?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery management systems
+KW  - Deep learning
+KW  - Secondary batteries
+KW  - Deep reinforcement learning
+KW  - Renewable energy
+KW  - Integrated energy systems
+KW  - deep reinforcement learning
+KW  - Energy
+KW  - Power
+KW  - Intelligent agents
+KW  - Adaptive control systems
+KW  - Commercial vehicles
+KW  - Energy management systems
+KW  - Grid integration
+KW  - Integration of renewable energies
+KW  - System control
+KW  - Vehicle to grids
+KW  - vehicle-To-grid integration
+KW  - Vehicle-to-grid integration
+KW  - Vehicle-to-grid
+KW  - Q-learning
+KW  - Real-time systems
+KW  - Renewable energy sources
+KW  - Batteries
+KW  - Degradation
+KW  - Reviews
+KW  - Safety
+KW  - vehicle-to-grid integration
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Reinforcement Learning-Based Optimal Battery Control under Cycle-Based Degradation Cost
+AU  - Kwon, K.-B.
+AU  - Zhu, H.
+T2  - IEEE Transactions on Smart Grid
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/TSG.2022.3180674
+VL  - 13
+IS  - 6
+SP  - 4909
+EP  - 4917
+UR  - https://www.scopus.com/pages/publications/85131820716?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Digital storage
+KW  - Electric batteries
+KW  - Learning algorithms
+KW  - Markov processes
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Uncertainty
+KW  - Deep learning
+KW  - Markov Decision Processes
+KW  - Electric power transmission networks
+KW  - Energy storage
+KW  - Electric power system control
+KW  - Smart power grids
+KW  - Battery degradation
+KW  - Costs
+KW  - Storage management
+KW  - battery degradation
+KW  - Deep Q-network
+KW  - deep Q-networks (DQN)
+KW  - Degradation model
+KW  - Linearization
+KW  - Power grid operations
+KW  - rainflow algorithm
+KW  - Rainflow algorithms
+KW  - Reinforcement learning algorithms
+KW  - MODEL-PREDICTIVE CONTROL
+KW  - Batteries
+KW  - Degradation
+KW  - ENERGY-STORAGE SYSTEMS
+KW  - Numerical models
+KW  - Trajectory
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive control strategy for primary frequency regulation for new energy storage stations based on reinforcement learning
+AU  - Sun, R.
+AU  - Wang, J.
+AU  - Ma, Y.
+AU  - Zhang, X.
+AU  - Hu, H.
+T2  - Energy Storage Science and Technology
+DA  - 2024///
+PY  - 2024
+DO  - 10.19799/j.cnki.2095-4239.2023.0658
+VL  - 13
+IS  - 3
+SP  - 858
+EP  - 869
+ST  - 基于强化学习的新能源场站储能一次调频自适应控制策略
+UR  - https://www.scopus.com/pages/publications/85195500314?origin=resultslist
+DB  - Scopus
+KW  - reinforcement learning
+KW  - adaptive control
+KW  - battery energy storage
+KW  - new energy station
+KW  - primary frequency regulation
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Cooperative Behaviors and Multienergy Coupling Through Distributed Energy Storage in the Peer-to-Peer Market Mechanism
+AU  - Tanis, Z.
+AU  - Durusu, A.
+T2  - IEEE Access
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3529205
+VL  - 13
+SP  - 12081
+EP  - 12102
+UR  - https://www.scopus.com/pages/publications/85215583979?origin=resultslist
+DB  - Scopus
+KW  - Optimization
+KW  - Renewable energy
+KW  - Energy storage
+KW  - Peer-to-peer computing
+KW  - Distributed energy
+KW  - Costs
+KW  - Block-chain
+KW  - Blockchain
+KW  - Clean energy
+KW  - Distributed energy storage systems
+KW  - market-based consortium blockchain
+KW  - Market-based consortium blockchain
+KW  - Marketplaces
+KW  - Multi-energy systems
+KW  - Multienergy
+KW  - multienergy coupling
+KW  - Multienergy coupling
+KW  - Nash bargaining
+KW  - Nonlinear programming
+KW  - Peer to peer
+KW  - peer-to-peer
+KW  - Storage virtualization
+KW  - storage virtualization model
+KW  - Storage virtualization model
+KW  - OPERATION
+KW  - Renewable energy sources
+KW  - Electricity
+KW  - Resource management
+KW  - Couplings
+KW  - Pricing
+KW  - Resistance heating
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Interpretable Deep Reinforcement Learning for Optimizing Heterogeneous Energy Storage Systems
+AU  - Xiong, L.
+AU  - Tang, Y.
+AU  - Liu, C.
+AU  - Mao, S.
+AU  - Meng, K.
+AU  - Dong, Z.
+AU  - Qian, F.
+T2  - IEEE Transactions on Circuits and Systems I: Regular Papers
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/TCSI.2023.3340026
+VL  - 71
+IS  - 2
+SP  - 910
+EP  - 921
+UR  - https://www.scopus.com/pages/publications/85180355521?origin=resultslist
+DB  - Scopus
+KW  - Electric batteries
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Decision making
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - Energy storage
+KW  - deep reinforcement learning
+KW  - Storage systems
+KW  - Costs
+KW  - Battery
+KW  - Cost functions
+KW  - Cost-function
+KW  - Decisions makings
+KW  - Discharge (electric)
+KW  - Electric discharges
+KW  - Energy utilization
+KW  - Heterogeneous energy storage system
+KW  - Heterogeneous energy storage systems
+KW  - Hydrogen storage
+KW  - Interpretability
+KW  - pre-hoc interpretability
+KW  - Pre-hoc interpretability
+KW  - NAND FLASH
+KW  - Batteries
+KW  - Degradation
+KW  - Cost function
+KW  - Discharges (electric)
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - A review of energy storage systems for facilitating large-scale EV charger integration in electric power grid
+AU  - Çelik, D.
+AU  - Khan, M.A.
+AU  - Khosravi, N.
+AU  - Waseem, M.
+AU  - Ahmed, H.
+T2  - Journal of Energy Storage
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.est.2025.115496
+VL  - 112
+UR  - https://www.scopus.com/pages/publications/85216205296?origin=resultslist
+DB  - Scopus
+KW  - Microgrids
+KW  - Electric vehicles
+KW  - Flow batteries
+KW  - Energy storage system
+KW  - Storage systems
+KW  - Energy
+KW  - Power
+KW  - Electric load flow
+KW  - Electric load management
+KW  - Benchmarking
+KW  - Six sigma
+KW  - Voltage scaling
+KW  - Vehicle to grids
+KW  - Active filters
+KW  - All-pass filters
+KW  - Associative storage
+KW  - Bandpass filters
+KW  - Butterworth filters
+KW  - Chebyshev filters
+KW  - Compact disks
+KW  - Damage detection
+KW  - Digital filters
+KW  - Electric power plant loads
+KW  - Electronic Waste
+KW  - Elliptic filters
+KW  - Empowerment of personnel
+KW  - Energy management strategies
+KW  - Energy management strategy
+KW  - Energy storage systems
+KW  - High pass filters
+KW  - Large-scales
+KW  - Low pass filters
+KW  - Management strategies
+KW  - Model predictive control
+KW  - Notch filters
+KW  - Overhead lines
+KW  - Passive filters
+KW  - Plug-in electric vehicles
+KW  - Plug-in hybrid vehicles
+KW  - Plug-ins
+KW  - Power quality
+KW  - Solar power generation
+KW  - Solid-State Batteries
+KW  - Switched filters
+KW  - Vehicle-to-grid
+KW  - Virtual storage
+KW  - Wavelet transforms
+KW  - DISTRIBUTION NETWORKS
+KW  - HIGH PENETRATION
+KW  - HYBRID
+KW  - MANAGEMENT STRATEGY
+KW  - MODEL-PREDICTIVE CONTROL
+KW  - OF-THE-ART
+KW  - OPTIMIZATION
+KW  - SMART GRIDS
+KW  - VEHICLE
+KW  - VOLTAGE UNBALANCE
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement Learning for Battery Energy Storage Dispatch augmented with Model-based Optimizer
+AU  - Krishnamoorthy, G.
+AU  - Dubey, A.
+AU  - Gebremedhin, A.H.
+T2  - 2021 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, SmartGridComm 2021
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/SmartGridComm51999.2021.9632292
+SP  - 289
+EP  - 294
+UR  - https://www.scopus.com/pages/publications/85123951767?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - Electric batteries
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Deep learning
+KW  - Electric load dispatching
+KW  - Approximation algorithms
+KW  - Frequency regulations
+KW  - Electric power transmission networks
+KW  - Electric load flow
+KW  - Smart power grids
+KW  - Reinforcement learning algorithms
+KW  - distribution aggregator
+KW  - Distribution aggregator
+KW  - Distribution levels
+KW  - frequency regulation
+KW  - imitation learning
+KW  - Imitation learning
+KW  - Model-based OPC
+KW  - Optimal power flow problem
+KW  - Optimizers
+KW  - Physics-based models
+KW  - VOLTAGE CONTROL
+KW  - Mathematical models
+KW  - REACTIVE POWER
+KW  - Optimization methods
+KW  - Computational modeling
+KW  - Power distribution
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Co-optimizing battery storage for energy arbitrage and frequency regulation in real-time markets using deep reinforcement learning
+AU  - Miao, Y.
+AU  - Chen, T.
+AU  - Bu, S.
+AU  - Liang, H.
+AU  - Han, Z.
+T2  - Energies
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/en14248365
+VL  - 14
+IS  - 24
+UR  - https://www.scopus.com/pages/publications/85121240926?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Electric batteries
+KW  - Markov processes
+KW  - Reinforcement learning
+KW  - Uncertainty
+KW  - Battery energy storage
+KW  - Behavioral research
+KW  - Decision making
+KW  - Deep learning
+KW  - Frequency regulation
+KW  - Frequency regulations
+KW  - Deep reinforcement learning
+KW  - Commerce
+KW  - deep reinforcement learning
+KW  - Renewable energy resources
+KW  - battery energy storage
+KW  - frequency regulation
+KW  - Clustering algorithms
+KW  - Energy arbitrage
+KW  - Energy arbitrages
+KW  - Frequency regulation services
+KW  - Real-time market
+KW  - Renewable energy generation
+KW  - Time-scales
+KW  - real-time market
+KW  - energy arbitrage
+KW  - OPTIMIZATION
+KW  - MANAGEMENT
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Stability-Guaranteed Optimization of Adaptive Primary and Secondary Frequency Control Strategies Considering Flexible Resources
+AU  - Ma, Y.
+AU  - Hu, Z.
+AU  - Song, Y.
+T2  - IEEE Transactions on Power Systems
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/TPWRS.2025.3574064
+VL  - 40
+IS  - 6
+SP  - 5144
+EP  - 5157
+UR  - https://www.scopus.com/pages/publications/105006817600?origin=resultslist
+DB  - Scopus
+KW  - Optimization
+KW  - Reinforcement learnings
+KW  - Solar energy
+KW  - Frequency regulations
+KW  - deep reinforcement learning
+KW  - Control logic
+KW  - Control parameters
+KW  - Control performance
+KW  - Control system stability
+KW  - Electric variables control
+KW  - flexible resources
+KW  - Flexible resources
+KW  - Frequency stability
+KW  - Primary frequencies
+KW  - Primary frequency regulation
+KW  - Robustness (control systems)
+KW  - secondary frequency regulation
+KW  - Secondary frequency regulation
+KW  - Stability criteria
+KW  - System frequency
+KW  - Frequency control
+KW  - Power system stability
+KW  - Load modeling
+KW  - Analytical models
+KW  - AUTOMATIC-GENERATION CONTROL
+KW  - Biological system modeling
+KW  - CONTROL-SYSTEMS
+KW  - DISPATCH
+KW  - DROOP
+KW  - Logic
+KW  - Resource management
+KW  - Thermal stability
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - A Learning based Bidding Strategy for Energy Arbitrage of Battery Energy Storage Systems in Day-Ahead Electricity Market
+AU  - Sun, H.
+AU  - Xu, Y.
+AU  - Xia, Y.
+AU  - Xie, D.
+AU  - Zhang, R.
+T2  - 2025 IEEE PES Innovative Smart Grid Technologies - Asia, ISGT Asia 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ISGTAsia63446.2025.11431285
+SP  - 96
+EP  - 100
+UR  - https://www.scopus.com/pages/publications/105036383046?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Digital storage
+KW  - Electricity prices
+KW  - Power markets
+KW  - Reinforcement learnings
+KW  - Uncertainty
+KW  - Decision making
+KW  - Secondary batteries
+KW  - Bidding strategy
+KW  - Deep reinforcement learning
+KW  - deep reinforcement learning
+KW  - Costs
+KW  - Energy arbitrages
+KW  - bidding strategy
+KW  - Data driven decision
+KW  - day-ahead electricity market
+KW  - Day-ahead electricity market
+KW  - Decision-making frameworks
+KW  - Long short-term memory
+KW  - Market participations
+KW  - Market uncertainty
+KW  - Electricity supply industry
+KW  - Convergence
+KW  - Training
+KW  - Asia
+KW  - Long short term memory
+KW  - Smart grids
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Order-Based Heterogeneous Agents Reinforcement Learning Method With the Coordination of Distribution Network and Transmission Network for Load Frequency Control
+AU  - Yu, S.
+AU  - Zheng, X.
+AU  - Shi, T.
+AU  - Chen, R.
+AU  - Xue, S.
+AU  - Cao, H.
+T2  - IEEE Transactions on Power Systems
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/TPWRS.2025.3598951
+VL  - 41
+IS  - 1
+SP  - 413
+EP  - 424
+UR  - https://www.scopus.com/pages/publications/105013244657?origin=resultslist
+DB  - Scopus
+KW  - Markov processes
+KW  - Reinforcement learnings
+KW  - Solar energy
+KW  - Photovoltaics
+KW  - Energy storage
+KW  - Energy
+KW  - Data storage equipment
+KW  - Electric power distribution
+KW  - Reactive power
+KW  - Electric frequency control
+KW  - Heuristic algorithms
+KW  - Load frequency control
+KW  - Load-frequency control
+KW  - Distributed energy
+KW  - distribution network and transmission network coordination
+KW  - Distribution network and transmission network coordination
+KW  - Electric load distribution
+KW  - Heterogeneous agent reinforcement learning
+KW  - Heterogeneous agents
+KW  - heterogeneous agents reinforcement learning (HARL)
+KW  - Network coordinations
+KW  - photovoltaic and energy storage coordinated dispatch
+KW  - Photovoltaic and energy storage coordinated dispatch
+KW  - Transmissions
+KW  - update sequence selector
+KW  - Update sequence selector
+KW  - Frequency control
+KW  - Power system dynamics
+KW  - Power system stability
+KW  - Convergence
+KW  - Distribution networks
+KW  - Load modeling
+KW  - Mathematical models
+KW  - Training
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - 2024 IEEE Power and Energy Society General Meeting, PESGM 2024
+T2  - IEEE Power and Energy Society General Meeting
+DA  - 2024///
+PY  - 2024
+UR  - https://www.scopus.com/pages/publications/85207465341?origin=resultslist
+DB  - Scopus
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - Optimal Scheduled Control Operation of Battery Energy Storage System using Model-Free Reinforcement Learning
+AU  - Selim, A.
+T2  - Proceedings - 2022 IEEE Sustainable Power and Energy Conference, iSPEC 2022
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/iSPEC54162.2022.10033035
+UR  - https://www.scopus.com/pages/publications/85148630144?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Markov processes
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery management systems
+KW  - Secondary batteries
+KW  - Charging (batteries)
+KW  - Electric power system control
+KW  - State of charge
+KW  - States of charges
+KW  - Battery operation
+KW  - Control optimization
+KW  - Domestic appliances
+KW  - Grid power
+KW  - Model free
+KW  - Model-free
+KW  - Power set
+KW  - Power sharing
+KW  - Setpoints
+KW  - Training
+KW  - Pricing
+KW  - Optimal control
+KW  - Optimal scheduling
+KW  - Supercomputers
+KW  - Tariffs
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Proximal Policy Optimization Based Reinforcement Learning for Joint Bidding in Energy and Frequency Regulation Markets
+AU  - Anwar, M.
+AU  - Wang, C.
+AU  - De Nijs, F.
+AU  - Wang, H.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/PESGM48719.2022.9917082
+VL  - 2022-July
+UR  - https://www.scopus.com/pages/publications/85141539705?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Digital storage
+KW  - Learning algorithms
+KW  - Markov processes
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Deep learning
+KW  - Profitability
+KW  - Ancillary services markets
+KW  - Frequency regulations
+KW  - Electric power transmission networks
+KW  - Electric energy storage
+KW  - Regulation
+KW  - Heuristic algorithms
+KW  - Decarbonisation
+KW  - Energy markets
+KW  - Energy regulation
+KW  - Policy optimization
+KW  - Regulation markets
+KW  - Spot market
+KW  - Electricity supply industry
+KW  - Renewable energy sources
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Deep reinforcement learning for joint dispatch of battery storage and gas turbines in renewable-powered microgrids
+AU  - Sage, M.
+AU  - Al Handawi, K.
+AU  - Zhao, Y.F.
+T2  - Energy and AI
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.egyai.2025.100653
+VL  - 22
+UR  - https://www.scopus.com/pages/publications/105023216571?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery energy storage
+KW  - Deep learning
+KW  - Electric load dispatching
+KW  - Microgrids
+KW  - Renewable energies
+KW  - Secondary batteries
+KW  - Data based controls
+KW  - Data-based control
+KW  - Economic dispatch
+KW  - Economic Dispatch
+KW  - Renewable energy
+KW  - Energy policy
+KW  - Microgrid
+KW  - Hybrid power
+KW  - Costs
+KW  - Gas turbine
+KW  - Joint dispatches
+KW  - Ramp up
+KW  - Up-time
+KW  - SYSTEM
+KW  - WIND
+KW  - REANALYSIS
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - 2024 56th North American Power Symposium, NAPS 2024
+T2  - 2024 56th North American Power Symposium, NAPS 2024
+DA  - 2024///
+PY  - 2024
+UR  - https://www.scopus.com/pages/publications/85212149259?origin=resultslist
+DB  - Scopus
+KW  - E6
+ER  - 
+
+TY  - JOUR
+TI  - Grid-Scale Battery Energy Storage and AI-Driven Intelligent Optimization for Techno-Economic and Environmental Benefits: A Systematic Review
+AU  - Ketjoy, N.
+AU  - Muna, Y.B.
+AU  - Kaewpanha, M.
+AU  - Chamsa-ard, W.
+AU  - Suriwong, T.
+AU  - Termritthikun, C.
+T2  - Batteries
+DA  - 2026///
+PY  - 2026
+DO  - 10.3390/batteries12010031
+VL  - 12
+IS  - 1
+UR  - https://www.scopus.com/pages/publications/105028491983?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Deep learning
+KW  - Secondary batteries
+KW  - Renewable energy
+KW  - Electric power system stability
+KW  - Energy policy
+KW  - Cost effectiveness
+KW  - Electric power system economics
+KW  - battery energy storage systems
+KW  - artificial intelligence
+KW  - Balancing
+KW  - Emission control
+KW  - emission reduction
+KW  - Emission reduction
+KW  - energy transition
+KW  - Energy transition
+KW  - Energy transitions
+KW  - environmental impact assessment
+KW  - grid flexibility and resilience
+KW  - Grid flexibility and resilience
+KW  - Grid scale
+KW  - Impact assessments
+KW  - Intelligent optimization
+KW  - renewable energy integration
+KW  - Renewable energy integrations
+KW  - Sustainable development
+KW  - Systematic Review
+KW  - Techno-economics
+KW  - CHALLENGES
+KW  - PREDICTION
+KW  - TECHNOLOGIES
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - Learning to Arbitrage Battery Energy Storage using Deep Q-Networks with Hyperparameter Tuning
+AU  - Bohara, B.
+AU  - Krishnamoorthy, H.S.
+T2  - INTELEC, International Telecommunications Energy Conference (Proceedings)
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/INTELEC63987.2025.11214751
+SP  - 120
+EP  - 125
+UR  - https://www.scopus.com/pages/publications/105022432783?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery energy storage
+KW  - Deep learning
+KW  - Reinforcement Learning
+KW  - Secondary batteries
+KW  - Profitability
+KW  - Deep reinforcement learning
+KW  - Charging (batteries)
+KW  - Electric power transmission networks
+KW  - Electric power system stability
+KW  - Data storage equipment
+KW  - Battery Energy Storage System
+KW  - Charge storage
+KW  - Costs
+KW  - Deep Q-network
+KW  - Energy arbitrages
+KW  - Energy markets
+KW  - Curve fitting
+KW  - Deep Q-Networks (DQN)
+KW  - Electric industry
+KW  - Energy Arbitrage
+KW  - Energy Market
+KW  - Hyper-parameter
+KW  - Hyperparameter tuning
+KW  - Hyperparameter Tuning
+KW  - Integer programming
+KW  - Learning-based approach
+KW  - Outages
+KW  - Performance
+KW  - Real-time systems
+KW  - Electricity
+KW  - Power system stability
+KW  - Training
+KW  - Batteries
+KW  - Stability analysis
+KW  - Robustness
+KW  - Tuning
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - 37th Annual Conference on Power System and Automation in Chinese Universities, CUS-EPSA 2022
+T2  - Lecture Notes in Electrical Engineering
+DA  - 2023///
+PY  - 2023
+VL  - 1030 LNEE
+UR  - https://www.scopus.com/pages/publications/85161445040?origin=resultslist
+DB  - Scopus
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - Optimal Design of Energy Storage System Assisted AGC Frequency Regulation Based on DDPG Algorithm
+AU  - Lu, Y.
+AU  - Liu, L.
+AU  - Zhang, Y.
+AU  - Zou, S.
+AU  - Liang, X.
+AU  - Bao, T.
+T2  - 2023 IEEE International Conference on Power Science and Technology, ICPST 2023
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/ICPST56889.2023.10165606
+SP  - 819
+EP  - 826
+UR  - https://www.scopus.com/pages/publications/85165703432?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - Electric batteries
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Deep learning
+KW  - Frequency regulations
+KW  - Deep reinforcement learning
+KW  - deep reinforcement learning
+KW  - energy storage system
+KW  - Energy storage system
+KW  - Storage systems
+KW  - Electric loads
+KW  - Electric power system control
+KW  - Controllers
+KW  - Deep deterministic policy gradient
+KW  - Deterministics
+KW  - Electric control equipment
+KW  - Electric frequency control
+KW  - Load-frequency control
+KW  - Policy gradient
+KW  - deep deterministic policy gradient
+KW  - frequency regulation
+KW  - Electric power system interconnection
+KW  - Equivalent circuits
+KW  - Frequency control mode
+KW  - LFC mode
+KW  - Load frequency control mode
+KW  - Press load control
+KW  - Proportional control systems
+KW  - Three term control systems
+KW  - Two term control systems
+KW  - Power system stability
+KW  - Batteries
+KW  - Simulation
+KW  - Frequency modulation
+KW  - Integrated circuit interconnections
+KW  - Integrated circuit modeling
+KW  - Perturbation methods
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Optimal Scheduling Strategy of Wind-Thermal-Storage Multi-Energy Complementary System Based on Deep Reinforcement Learning
+AU  - Wang, B.
+AU  - Huang, J.
+AU  - Yan, J.
+AU  - Hong, Y.
+AU  - Wang, K.
+AU  - Yang, J.
+T2  - 2026 IEEE International Conference on Power, Electronics and Green Energy, ICPEGE 2026
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/ICPEGE67691.2026.11451305
+SP  - 83
+EP  - 87
+UR  - https://www.scopus.com/pages/publications/105037433778?origin=resultslist
+DB  - Scopus
+KW  - Batteries
+KW  - Complementary systems
+KW  - Costs
+KW  - Deep reinforcement learning
+KW  - Deep Reinforcement Learning
+KW  - Electric load dispatching
+KW  - Feature extraction
+KW  - Fluctuations
+KW  - Heat storage
+KW  - Hybrid power systems
+KW  - Multi energy
+KW  - Optimal scheduling
+KW  - Optimal scheduling strategies
+KW  - Optimization
+KW  - Power
+KW  - Power system stability
+KW  - Reinforcement learnings
+KW  - Renewable energies
+KW  - Renewable energy
+KW  - system scheduling
+KW  - System scheduling
+KW  - Thermal storage
+KW  - Wind power
+KW  - Wind power generation
+KW  - Wind turbines
+KW  - wind-fire-storage hybrid system
+KW  - Wind-fire-storage hybrid system
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Operation Optimization of Wind-Energy and Storage Combined Systems: A Study on Synergizing Multifaceted Application Values of Energy Storage
+AU  - Liu, J.
+AU  - Yan, H.
+AU  - Sun, G.
+AU  - Wang, J.
+AU  - Lu, C.
+AU  - Wen, F.
+T2  - 2024 8th International Conference on Power Energy Systems and Applications, ICoPESA 2024
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/ICOPESA61191.2024.10743542
+SP  - 585
+EP  - 590
+UR  - https://www.scopus.com/pages/publications/85211502212?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Optimization
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Deep reinforcement learning
+KW  - Scheduling
+KW  - Energy storage system
+KW  - Storage systems
+KW  - Energy
+KW  - Heuristic algorithms
+KW  - Policy optimization
+KW  - Electric industry
+KW  - Battery Energy Storage System (BESS)
+KW  - Combined system
+KW  - Deep Reinforcement Learning (DRL)
+KW  - Energy Storage System (ESS)
+KW  - Gated recurrent unit
+KW  - Gated Recurrent Unit (GRU)
+KW  - Proximal policy optimization
+KW  - Proximal Policy Optimization (PPO)
+KW  - Wind-energy and storage combined system
+KW  - Wind-energy and Storage Combined System (WSCS)
+KW  - Windmill
+KW  - Electricity supply industry
+KW  - Real-time systems
+KW  - Renewable energy sources
+KW  - Economics
+KW  - Wind energy
+KW  - Prevention and mitigation
+KW  - Simulation
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Optimal Battery Sizing for Real-Time Renewable Energy Bidding Based on Reinforcement Learning
+AU  - Mantani, T.
+AU  - Hoshino, H.
+AU  - Furutani, E.
+T2  - IEEE Transactions on Energy Markets, Policy and Regulation
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/TEMPR.2025.3645733
+UR  - https://www.scopus.com/pages/publications/105025660948?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - Optimization
+KW  - Reinforcement learnings
+KW  - Uncertainty
+KW  - Battery management systems
+KW  - Decision making
+KW  - Renewable energies
+KW  - Secondary batteries
+KW  - Stochastic systems
+KW  - Investments
+KW  - Commerce
+KW  - deep reinforcement learning
+KW  - Variable renewable energies
+KW  - Real-time market
+KW  - Battery capacity
+KW  - Battery sizing
+KW  - Computational efficiency
+KW  - multi-scale optimization
+KW  - Multi-scale optimization
+KW  - Real- time
+KW  - real-time market
+KW  - Stochastic programming
+KW  - Stochastics
+KW  - uncertainty
+KW  - Real-time systems
+KW  - Renewable energy sources
+KW  - Mathematical models
+KW  - Training
+KW  - Biological system modeling
+KW  - Batteries
+KW  - Numerical models
+KW  - Computational modeling
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Optimal Energy Storage Scheduling for Wind Curtailment Reduction and Energy Arbitrage: A Deep Reinforcement Learning Approach
+AU  - Li, J.
+AU  - Wang, C.
+AU  - Wang, H.
+T2  - IEEE Power and Energy Society General Meeting
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/PESGM52003.2023.10253181
+VL  - 2023-July
+UR  - https://www.scopus.com/pages/publications/85174744258?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Wind power
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - Commerce
+KW  - Energy arbitrages
+KW  - Spot market
+KW  - % reductions
+KW  - Climate change
+KW  - Electric utilities
+KW  - energy arbitrage
+KW  - Losses
+KW  - spot market
+KW  - wind curtailment
+KW  - Wind curtailment
+KW  - Wind farm
+KW  - Wind generation
+KW  - wind-battery system
+KW  - Wind-battery systems
+KW  - SYSTEMS
+KW  - UNITS
+KW  - Renewable energy sources
+KW  - Economics
+KW  - Wind energy
+KW  - Simulation
+KW  - Wind energy generation
+KW  - wind curtailment.
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Learning to control a battery through reinforcement: Balancing lifetime and profit
+AU  - Neves, C.S.
+AU  - Čović, N.
+AU  - Cremer, J.L.
+T2  - 2025 IEEE Kiel PowerTech, PowerTech 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/PowerTech59965.2025.11180449
+UR  - https://www.scopus.com/pages/publications/105019305718?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Artificial intelligence
+KW  - Battery management systems
+KW  - Secondary batteries
+KW  - Profitability
+KW  - energy storage system
+KW  - Energy storage system
+KW  - Storage systems
+KW  - Energy
+KW  - Battery degradation
+KW  - State of charge
+KW  - State of health
+KW  - Costs
+KW  - battery degradation
+KW  - Energy utilization
+KW  - Energy arbitrages
+KW  - energy arbitrage
+KW  - Battery lifetime
+KW  - Energy use
+KW  - state of health
+KW  - Batteries
+KW  - Degradation
+KW  - ELECTRIC VEHICLE-BATTERIES
+KW  - Control systems
+KW  - Lead acid batteries
+KW  - Semisupervised learning
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Optimal Economic Dispatch and Power Generation for Microgrid Using Novel Lagrange Multipliers-Based Method With HIL Verification
+AU  - Lin, F.J.
+AU  - Liao, J.C.
+AU  - Zhang, Y.M.
+AU  - Huang, Y.C.
+T2  - IEEE Systems Journal
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/JSYST.2023.3283996
+VL  - 17
+IS  - 3
+SP  - 4533
+EP  - 4544
+UR  - https://www.scopus.com/pages/publications/85162860362?origin=resultslist
+DB  - Scopus
+KW  - Battery management systems
+KW  - Deep learning
+KW  - Electric load dispatching
+KW  - Microgrids
+KW  - Power control
+KW  - Economic dispatch
+KW  - Economic Dispatch
+KW  - Charging (batteries)
+KW  - microgrid
+KW  - Microgrid
+KW  - Electric load flow
+KW  - Reactive power
+KW  - Renewable energy resources
+KW  - State of charge
+KW  - States of charges
+KW  - Costs
+KW  - Energy management systems
+KW  - Digital signal processors
+KW  - Embedded systems
+KW  - Energy management system
+KW  - energy management system (EMS)
+KW  - Generator
+KW  - Hardware in the loop  mechanism
+KW  - hardware in the loop (HIL) mechanism
+KW  - Hardware in the loops
+KW  - Hardware-in-the-loop simulation
+KW  - Lagrange multipliers
+KW  - Particle swarm optimization (PSO)
+KW  - Power- generations
+KW  - Real - Time system
+KW  - Real time systems
+KW  - Signal processing
+KW  - Generators
+KW  - Real-time systems
+KW  - SYSTEMS
+KW  - MANAGEMENT
+KW  - ALGORITHM
+KW  - FLOW
+KW  - Power generation
+KW  - Turbines
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - A Study of Reinforcement Learning Framework for Energy Management in Smart Grids: Integrating Market Trading, Load Forecasting, and Vertical Agents
+AU  - Valiev, K.
+AU  - Ikromov, S.
+AU  - Kim, Y.
+T2  - Journal of Korean Institute of Communications and Information Sciences
+DA  - 2026///
+PY  - 2026
+DO  - 10.7840/kics.2026.51.2.324
+VL  - 51
+IS  - 2
+SP  - 324
+EP  - 347
+UR  - https://www.scopus.com/pages/publications/105034274759?origin=resultslist
+DB  - Scopus
+KW  - Battery Energy Storage System
+KW  - Energy Management
+KW  - Large Language Models
+KW  - Proximal Policy Optimization
+KW  - Reinforcement Learning
+KW  - Not retrieved
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Hierarchical Deep Reinforcement Learning with Meta Learning for Health-Aware Multi-Service Battery Energy Storage Systems in Dynamic Electricity Markets
+AU  - Bhatakar, P.
+AU  - Viyanwar, K.
+AU  - Dandekar, P.
+AU  - Chaudhari, I.
+T2  - National Power Electronics Conference, NPEC 2025
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/NPEC66512.2025.11450246
+UR  - https://www.scopus.com/pages/publications/105037444065?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery energy storage
+KW  - Battery management systems
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - Battery degradation
+KW  - Solid-State Batteries
+KW  - Energy markets
+KW  - Electric industry
+KW  - Deep Reinforcement Learning
+KW  - Battery Degradation
+KW  - Battery Energy Storage
+KW  - Capacity fade
+KW  - Energy Markets
+KW  - Grid stability
+KW  - Hierarchical control
+KW  - Hierarchical Control
+KW  - Hierarchical systems
+KW  - Industrial electronics
+KW  - Lithium
+KW  - Lithium-ion batteries
+KW  - Meta-Learning
+KW  - Metalearning
+KW  - Multi-services
+KW  - Electricity supply industry
+KW  - Real-time systems
+KW  - Adaptation models
+KW  - Power system stability
+KW  - Thermal stability
+KW  - Batteries
+KW  - Degradation
+KW  - Stability analysis
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Impact of Impulsive load Scenario on Isolated Mini-Grid and its Neutralization with BESS
+AU  - Mujeeb, A.
+AU  - Ali, M.
+AU  - Mu, C.
+AU  - Rasheed, N.
+AU  - Khan, T.
+AU  - Ullah, H.
+T2  - 2021 International Conference on Computing, Electronic and Electrical Engineering, ICE Cube 2021 - Proceedings
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ICECube53880.2021.9628210
+UR  - https://www.scopus.com/pages/publications/85123783516?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Solar energy
+KW  - Decision making
+KW  - Electric power transmission networks
+KW  - Energy utilization
+KW  - Battery Energy Storage System (BESS)
+KW  - Distributed generator
+KW  - Distributed generators
+KW  - Distributed Generators (DG's)
+KW  - Impulsive loads
+KW  - MATLAB
+KW  - Mini grids
+KW  - Reinforcement Learning (RL)
+KW  - Renewable generator
+KW  - Renewable Generator (RG's)
+KW  - Renewable generators
+KW  - Generators
+KW  - Analytical models
+KW  - Wind energy
+KW  - Distributed Generators (DG’s)
+KW  - Renewable Generator (RG’s)
+KW  - Smoothing methods
+KW  - Supply and demand
+KW  - Switches
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Energy Management System for an Industrial Microgrid Using Optimization Algorithms-Based Reinforcement Learning Technique
+AU  - Upadhyay, S.
+AU  - Ahmed, I.
+AU  - Mihet-Popa, L.
+T2  - Energies
+DA  - 2024///
+PY  - 2024
+DO  - 10.3390/en17163898
+VL  - 17
+IS  - 16
+UR  - https://www.scopus.com/pages/publications/85202433927?origin=resultslist
+DB  - Scopus
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Decision making
+KW  - Energy
+KW  - Microgrid
+KW  - Optimisations
+KW  - BESS
+KW  - Costs
+KW  - Clean energy
+KW  - EMS
+KW  - Energy-consumption
+KW  - optimization algorithm
+KW  - Optimization algorithms
+KW  - peak shaving
+KW  - Peak-shaving
+KW  - PPO
+KW  - price arbitrage
+KW  - Price arbitrage
+KW  - FRAMEWORK
+KW  - SCHEME
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Based on Reinforcement Learning for Power Command Allocation of Battery Energy Storage Stations
+AU  - Yin, L.
+AU  - Wang, F.
+AU  - Chen, X.
+T2  - Asia-Pacific Power and Energy Engineering Conference, APPEEC
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/APPEEC61255.2024.10922508
+UR  - https://www.scopus.com/pages/publications/105002249038?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Battery energy storage
+KW  - Power grids
+KW  - Power
+KW  - Charge storage
+KW  - State of charge
+KW  - States of charges
+KW  - Model-based OPC
+KW  - Secondary frequency regulation
+KW  - Command allocations
+KW  - Energy storage unit
+KW  - power command allocation
+KW  - Power command allocation
+KW  - power loss
+KW  - Powerloss
+KW  - SoC
+KW  - Frequency control
+KW  - Resource management
+KW  - Batteries
+KW  - Power distribution
+KW  - Power generation
+KW  - Runtime
+KW  - Sorting
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Temporal-Aware Deep Reinforcement Learning for Energy Storage Bidding in Energy and Contingency Reserve Markets
+AU  - Li, J.
+AU  - Wang, C.
+AU  - Zhang, Y.
+AU  - Wang, H.
+T2  - IEEE Transactions on Energy Markets, Policy and Regulation
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/TEMPR.2024.3372656
+VL  - 2
+IS  - 3
+SP  - 392
+EP  - 406
+UR  - https://www.scopus.com/pages/publications/105022104080?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Electric batteries
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Uncertainty
+KW  - Deep learning
+KW  - Australia
+KW  - Deep reinforcement learning
+KW  - deep reinforcement learning
+KW  - Regulation
+KW  - Energy arbitrages
+KW  - energy arbitrage
+KW  - Generator
+KW  - Real - Time system
+KW  - Real time systems
+KW  - Ancillary service
+KW  - Contingency management
+KW  - Frequency control ancillary service
+KW  - frequency control ancillary services
+KW  - Interactive computer systems
+KW  - transformer
+KW  - Transformer
+KW  - Electricity supply industry
+KW  - Generators
+KW  - Real-time systems
+KW  - Energy management
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - A Learning-Based Bidding Approach for PV-Attached BESS Power Plants
+AU  - Gao, X.
+AU  - Ma, H.
+AU  - Chan, K.W.
+AU  - Xia, S.
+AU  - Zhu, Z.
+T2  - Frontiers in Energy Research
+DA  - 2021///
+PY  - 2021
+DO  - 10.3389/fenrg.2021.750796
+VL  - 9
+UR  - https://www.scopus.com/pages/publications/85117696028?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Photovoltaics
+KW  - Bidding strategy
+KW  - Multi agent systems
+KW  - Electric energy storage
+KW  - BESS
+KW  - Large-scales
+KW  - bidding strategy
+KW  - Electric industry
+KW  - Learn+
+KW  - Fertilizers
+KW  - Hill climbing
+KW  - incomplete information game
+KW  - Incomplete information games
+KW  - Multi-agent reinforcement learning
+KW  - multiagent reinforcement learning
+KW  - Photovoltaic cells
+KW  - Photovoltaic energy
+KW  - PV
+KW  - Win-or-learn-fast policy-hill-climbing
+KW  - WoLF-PHC
+KW  - STORAGE
+KW  - ELECTRICITY
+KW  - STRATEGIES
+KW  - E6
+ER  - 
+
+TY  - JOUR
+TI  - Deep reinforcement learning for wind and energy storage coordination in wholesale energy and ancillary service markets
+AU  - Li, J.
+AU  - Wang, C.
+AU  - Wang, H.
+T2  - Energy and AI
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.egyai.2023.100280
+VL  - 14
+UR  - https://www.scopus.com/pages/publications/85164296901?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Digital storage
+KW  - Markov processes
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Wind power
+KW  - Deep learning
+KW  - Secondary batteries
+KW  - Bidding strategy
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Ancillary services markets
+KW  - Deep reinforcement learning
+KW  - Smart power grids
+KW  - Hydrogen storage
+KW  - % reductions
+KW  - Climate change
+KW  - Losses
+KW  - Wind curtailment
+KW  - Wind farm
+KW  - Wind generation
+KW  - Wind-battery systems
+KW  - Electricity market
+KW  - Wind-battery system
+KW  - SYSTEMS
+KW  - UNITS
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Attentive Convolutional Deep Reinforcement Learning for Optimizing Solar-Storage Systems in Real-Time Electricity Markets
+AU  - Li, J.
+AU  - Wang, C.
+AU  - Wang, H.
+T2  - IEEE Transactions on Industrial Informatics
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/TII.2024.3352229
+VL  - 20
+IS  - 5
+SP  - 7205
+EP  - 7215
+UR  - https://www.scopus.com/pages/publications/85184322121?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Electric batteries
+KW  - Markov processes
+KW  - Optimization
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Solar energy
+KW  - Deep learning
+KW  - Battery energy storage system (BESS)
+KW  - Deep reinforcement learning
+KW  - Optimisations
+KW  - Battery
+KW  - Solar power generation
+KW  - Real - Time system
+KW  - Real time systems
+KW  - Convolution
+KW  - deep reinforcement learning (DRL)
+KW  - electricity market
+KW  - solar curtailment
+KW  - Solar curtailment
+KW  - Solar energy conversion
+KW  - Solar photovoltaic
+KW  - solar photovoltaic (PV)
+KW  - Solar photovoltaics
+KW  - Electricity supply industry
+KW  - Real-time systems
+KW  - Batteries
+KW  - Degradation
+KW  - Nanoelectromechanical systems
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Distributed Peer-to-Peer Optimization Based on Robust Reinforcement Learning with Demand Response: A Review
+AU  - Martínez, A.
+AU  - Arévalo, P.
+T2  - Computers
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/computers14020065
+VL  - 14
+IS  - 2
+UR  - https://www.scopus.com/pages/publications/85218888961?origin=resultslist
+DB  - Scopus
+KW  - reinforcement learning
+KW  - demand response
+KW  - peer-to-peer energy trading
+KW  - E6
+ER  - 
+
+TY  - JOUR
+TI  - Optimal investment timing and sizing for battery energy storage systems
+AU  - Kelly, J.J.
+AU  - Leahy, P.G.
+T2  - Journal of Energy Storage
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.est.2020.101272
+VL  - 28
+UR  - https://www.scopus.com/pages/publications/85079628840?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Electric batteries
+KW  - Learning algorithms
+KW  - Learning systems
+KW  - Reinforcement learning
+KW  - Investments
+KW  - Commerce
+KW  - Renewable energy resources
+KW  - Policy gradient
+KW  - Battery degradation
+KW  - Deregulation
+KW  - Deterministic Policy Gradient Algorithm
+KW  - Global optimization
+KW  - Net present value
+KW  - Net Present Value
+KW  - Privatization
+KW  - Real option analysis
+KW  - Real Option Analysis
+KW  - Stochastic optimization
+KW  - Stochastic optimizations
+KW  - Timing circuits
+KW  - OPTIMIZATION
+KW  - CAPACITY
+KW  - DISTRIBUTION NETWORK
+KW  - MULTISTAGE
+KW  - PART II
+KW  - STOCHASTIC MATHEMATICAL-MODEL
+KW  - TUTORIAL
+KW  - UNCERTAINTY
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Deep reinforcement learning-based strategy for maximizing returns from renewable energy and energy storage systems in multi-electricity markets
+AU  - Cardo-Miota, J.
+AU  - Beltran, H.
+AU  - Pérez, E.
+AU  - Khadem, S.
+AU  - Bahloul, M.
+T2  - Applied Energy
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.apenergy.2025.125561
+VL  - 388
+UR  - https://www.scopus.com/pages/publications/86000331695?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - machine learning
+KW  - Reinforcement learnings
+KW  - Renewable energies
+KW  - Bidding strategy
+KW  - Markov Decision Processes
+KW  - algorithm
+KW  - data set
+KW  - energy storage
+KW  - Deep reinforcement learning
+KW  - alternative energy
+KW  - battery
+KW  - Battery energy storage system management
+KW  - electricity generation
+KW  - Electricity market participations
+KW  - energy market
+KW  - Energy systems
+KW  - local participation
+KW  - market conditions
+KW  - Markov decision process
+KW  - Multi-electricity market participation
+KW  - Multi-electricity markets participation
+KW  - Renewable energy system
+KW  - Renewable energy systems
+KW  - strategic approach
+KW  - Systems management
+KW  - training
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Peer-to-peer energy sharing with battery storage: Energy pawn in the smart grid
+AU  - He, L.
+AU  - Liu, Y.
+AU  - Zhang, J.
+T2  - Applied Energy
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.apenergy.2021.117129
+VL  - 297
+UR  - https://www.scopus.com/pages/publications/85107042062?origin=resultslist
+DB  - Scopus
+KW  - algorithm
+KW  - atmospheric electricity
+KW  - Battery storage
+KW  - Battery storage energies
+KW  - Costs
+KW  - decision making
+KW  - Decision making
+KW  - detection method
+KW  - Distributed solar
+KW  - Dynamic pricing
+KW  - Electric batteries
+KW  - Electric power transmission networks
+KW  - electricity
+KW  - Energy
+KW  - Energy sharings
+KW  - energy storage
+KW  - Energy storage
+KW  - Energy utilization
+KW  - FRAMEWORK
+KW  - GAME-THEORETIC APPROACH
+KW  - market conditions
+KW  - P2P sharing
+KW  - Peer to peer
+KW  - Photovoltaics
+KW  - Power markets
+KW  - Q-learning
+KW  - Reinforcement learning
+KW  - smart grid
+KW  - Smart grid
+KW  - Smart power grids
+KW  - Solar power generation
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Diffusion-Based Forecasting for Uncertainty-Aware Model Predictive Control
+AU  - Zarifis, S.
+AU  - Kordonis, I.
+AU  - Maragos, P.
+T2  - European Signal Processing Conference
+DA  - 2025///
+PY  - 2025
+DO  - 10.23919/EUSIPCO63237.2025.11226479
+SP  - 1877
+EP  - 1881
+UR  - https://www.scopus.com/pages/publications/105029873369?origin=resultslist
+DB  - Scopus
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Uncertainty
+KW  - Decision making
+KW  - Forecasting
+KW  - Reinforcement Learning
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Model predictive control
+KW  - Energy markets
+KW  - Signal processing
+KW  - Energy Markets
+KW  - Time series forecasting
+KW  - Diffusion
+KW  - Diffusion model
+KW  - Diffusion Models
+KW  - Generic frameworks
+KW  - Model Predictive Control
+KW  - Model-predictive control
+KW  - Prediction and decision
+KW  - Prediction models
+KW  - Predictive control systems
+KW  - Stochastic control systems
+KW  - Time series
+KW  - Time Series Forecasting
+KW  - Time series forecasting models
+KW  - Uncertainty Quantification
+KW  - Uncertainty quantifications
+KW  - Stochastic processes
+KW  - Prediction algorithms
+KW  - Predictive models
+KW  - Predictive control
+KW  - Signal processing algorithms
+KW  - Time series analysis
+KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - Distributional reinforcement learning-based energy arbitrage strategies in imbalance settlement mechanism
+AU  - Karimi Madahi, S.S.
+AU  - Claessens, B.
+AU  - Develder, C.
+T2  - Journal of Energy Storage
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.est.2024.114377
+VL  - 104
+UR  - https://www.scopus.com/pages/publications/85208146883?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - State of charge
+KW  - Energy arbitrages
+KW  - Actor critic
+KW  - Adversarial machine learning
+KW  - Battery energy storage systems (BESS)
+KW  - Distributional soft actor–critic
+KW  - Distributional soft actor–critic (DSAC)
+KW  - Imbalance settlement mechanism
+KW  - Reinforcement learning (RL)
+KW  - Risk-sensitive energy arbitrage
+KW  - Settlement mechanism
+KW  - Distributional soft actor-critic (DSAC)
+KW  - SERVICES
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive Resilient Control Against False Data Injection Attacks for a Multi-Energy Microgrid Integrating Power and Hydrogen Energy Systems Using Deep Reinforcement Learning
+AU  - Miao, Y.
+AU  - Bu, S.
+AU  - Qiu, D.
+AU  - Chen, T.
+AU  - Han, Z.
+T2  - IEEE Transactions on Network Science and Engineering
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/TNSE.2025.3628244
+VL  - 13
+SP  - 3209
+EP  - 3223
+UR  - https://www.scopus.com/pages/publications/105020933309?origin=resultslist
+DB  - Scopus
+KW  - Optimization
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Deep learning
+KW  - Microgrids
+KW  - Power control
+KW  - Frequency regulations
+KW  - Deep reinforcement learning
+KW  - deep reinforcement learning
+KW  - battery energy storage system
+KW  - Microgrid
+KW  - Energy conversion
+KW  - frequency regulation
+KW  - Energy arbitrages
+KW  - Multi energy
+KW  - energy arbitrage
+KW  - Adaptive resilient control
+KW  - Battery energy
+KW  - Battery energy storag esystem
+KW  - Computer crime
+KW  - Crime
+KW  - E systems
+KW  - false data injection attacks
+KW  - False data injection attacks
+KW  - Hydrogen
+KW  - hydrogen energy system
+KW  - Hydrogen energy systems
+KW  - Multi-energy micro grid
+KW  - multi-energy microgrids
+KW  - Resilient control
+KW  - Frequency control
+KW  - Real-time systems
+KW  - MANAGEMENT
+KW  - CYBER
+KW  - Economics
+KW  - Electricity
+KW  - FDI
+KW  - Frequency conversion
+KW  - FREQUENCY REGULATION
+KW  - MITIGATION
+KW  - Power system stability
+KW  - STORAGE
+KW  - STRATEGY
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Agent Reinforcement Learning for Decentralized Resilient Secondary Control of Energy Storage Systems Against DoS Attacks
+AU  - Chen, P.
+AU  - Liu, S.
+AU  - Chen, B.
+AU  - Yu, L.
+T2  - IEEE Transactions on Smart Grid
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/TSG.2022.3142087
+VL  - 13
+IS  - 3
+SP  - 1739
+EP  - 1750
+UR  - https://www.scopus.com/pages/publications/85122874248?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Digital storage
+KW  - Reinforcement learning
+KW  - Deep learning
+KW  - Microgrids
+KW  - Secondary batteries
+KW  - Multi agent systems
+KW  - Neural networks
+KW  - Charging (batteries)
+KW  - microgrid
+KW  - Microgrid
+KW  - Multi agent
+KW  - Multi-agent deep reinforcement learning
+KW  - battery energy storage systems
+KW  - Battery energy storage system.
+KW  - Denialof- service attacks
+KW  - DoS attacks
+KW  - Electric power transmission
+KW  - Frequency control
+KW  - Interference
+KW  - Power system dynamics
+KW  - secondary frequency control
+KW  - Secondary frequency control
+KW  - Signal to noise ratio
+KW  - Transmission-line measurements
+KW  - Denial-of-service attack
+KW  - LOAD FREQUENCY CONTROL
+KW  - Transmission line measurements
+KW  - VOLTAGE CONTROL
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Coordinated Multi-Agent Reinforcement Learning for Swarm Battery Control
+AU  - Ebell, N.
+AU  - Pruckner, M.
+T2  - Canadian Conference on Electrical and Computer Engineering
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/CCECE.2018.8447851
+VL  - 2018-May
+UR  - https://www.scopus.com/pages/publications/85053601013?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Electric batteries
+KW  - Reinforcement learning
+KW  - Microgrids
+KW  - Reinforcement Learning
+KW  - Multi agent systems
+KW  - Electric power transmission networks
+KW  - Multi agent
+KW  - Battery Energy Storage System
+KW  - Renewable energy resources
+KW  - Multi-agent reinforcement learning
+KW  - Photovoltaic cells
+KW  - Electric power transmission
+KW  - Battery Control
+KW  - Energy self-sufficiency
+KW  - Frequency containments
+KW  - Multi-agent
+KW  - Renewable energy source
+KW  - SWARM
+KW  - Swarm intelligence
+KW  - Transmission system operators
+KW  - multi-agent
+KW  - Renewable energy sources
+KW  - Load modeling
+KW  - Batteries
+KW  - Photovoltaic systems
+KW  - Learning (artificial intelligence)
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Bi-level real-time pricing model in multitype electricity users for welfare equilibrium: A reinforcement learning approach
+AU  - Song, H.
+AU  - Wang, Z.
+AU  - Gao, Y.
+T2  - Journal of Renewable and Sustainable Energy
+DA  - 2025///
+PY  - 2024
+DO  - 10.1063/5.0242836
+VL  - 17
+IS  - 1
+UR  - https://www.scopus.com/pages/publications/85216103482?origin=resultslist
+DB  - Scopus
+KW  - Battery storage
+KW  - Costs
+KW  - Electricity users
+KW  - Load profiles
+KW  - Multitype
+KW  - Pricing models
+KW  - Pricing strategy
+KW  - Profile formation
+KW  - Real time pricing
+KW  - Reinforcement learning
+KW  - Reinforcement learning approach
+KW  - Resource allocation
+KW  - Smart grid
+KW  - Smart power grids
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Utility/preference
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Employing battery energy storage systems for flexible ramping products in a fully renewable energy power grid: A market mechanism and strategy analysis through multi-Agent Markov games
+AU  - Gao, X.
+AU  - Zhang, J.
+AU  - Chang, J.
+AU  - Wang, S.
+AU  - Su, Z.
+AU  - Mu, Z.
+T2  - Energy Reports
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.egyr.2024.10.061
+VL  - 12
+SP  - 5066
+EP  - 5082
+UR  - https://www.scopus.com/pages/publications/85208288862?origin=resultslist
+DB  - Scopus
+KW  - Battery energy storage system
+KW  - Battery energy storage systems
+KW  - Battery storage
+KW  - Bidding strategy
+KW  - Clean energy
+KW  - Ancillary service
+KW  - Multi-agent reinforcement learning
+KW  - Electricity and ancillary services
+KW  - Electricity service
+KW  - Flexible ramping product
+KW  - Fully renewable energy power system
+KW  - Market equilibrium
+KW  - Markov Game
+KW  - Markov games
+KW  - Privacy concerns
+KW  - Renewable energy power
+KW  - BIDDING STRATEGY
+KW  - JOINT ENERGY
+KW  - MODEL
+KW  - PARTICIPATION
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Frequency regulation of off-grid system with battery energy storage system using deep Q-network
+AU  - Takayama, S
+AU  - Sawabe, T
+AU  - Ishigame, A
+AU  - Hashikawa, K
+AU  - Kuwashita, Y
+T2  - JOURNAL OF ENGINEERING-JOE
+DA  - 2023/01//undefined
+PY  - 2023
+DO  - 10.1049/tje2.12205
+VL  - 2023
+IS  - 1
+LA  - English
+SN  - 2051-3305
+AN  - WOS:000870262100001
+KW  - MODEL
+KW  - ELECTRIC VEHICLES
+KW  - GENERATION
+KW  - MICROGRIDS
+KW  - VOLTAGE
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Reinforcement learning for fluctuation reduction of wind power with energy storage
+AU  - Yang, Z
+AU  - Ma, XT
+AU  - Xia, L
+AU  - Zhao, QC
+AU  - Guan, XH
+T2  - RESULTS IN CONTROL AND OPTIMIZATION
+DA  - 2021/09//undefined
+PY  - 2021
+DO  - 10.1016/j.rico.2021.100030
+VL  - 4
+LA  - English
+SN  - 2666-7207
+AN  - WOS:001208920900001
+KW  - Reinforcement learning
+KW  - Wind power
+KW  - Battery energy storage
+KW  - SYSTEM
+KW  - OPTIMIZATION
+KW  - ALGORITHMS
+KW  - ECONOMIC-DISPATCH
+KW  - Fluctuation reduction
+KW  - FORECAST
+KW  - MARKOV DECISION-PROCESSES
+KW  - Sensitive-based optimization
+KW  - TRANSMISSION
+KW  - UNIT COMMITMENT
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - A Q-Cube Framework of Reinforcement Learning Algorithm for Continuous Double Auction among Microgrids
+AU  - Wang, N
+AU  - Xu, WS
+AU  - Shao, WH
+AU  - Xu, ZY
+T2  - ENERGIES
+DA  - 2019/08/01/
+PY  - 2019
+DO  - 10.3390/en12152891
+VL  - 12
+IS  - 15
+LA  - English
+SN  - 1996-1073
+AN  - WOS:000482174800051
+KW  - battery energy storage system
+KW  - bidding strategy
+KW  - MODEL
+KW  - SYSTEM
+KW  - POWER
+KW  - STRATEGY
+KW  - continuous double auction
+KW  - DECISION
+KW  - DEMAND RESPONSE
+KW  - ELECTRICITY MARKET
+KW  - ENERGY MANAGEMENT
+KW  - microgrids
+KW  - Q-cube framework
+KW  - Q-learning algorithm
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Control Policy Correction Framework for Reinforcement Learning-based Energy Arbitrage Strategies
+AU  - Madahi, SSK
+AU  - Gokhale, G
+AU  - Verwee, MS
+AU  - Claessens, B
+AU  - Develder, C
+AU  - ACM
+T2  - PROCEEDINGS OF THE 15TH ACM INTERNATIONAL CONFERENCE ON FUTURE AND SUSTAINABLE ENERGY SYSTEMS, E-ENERGY 2024
+C3  - Ghent University
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3632775.3661948
+SP  - 123
+EP  - 133
+LA  - English
+SN  - 979-8-4007-0480-2
+AN  - WOS:001556583400010
+KW  - Battery energy storage systems
+KW  - energy arbitrage
+KW  - distributional reinforcement learning
+KW  - interpretable reinforcement learning
+KW  - knowledge distillation
+KW  - safe reinforcement learning
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Analysis of operation cost and wind curtailment using multi-objective unit commitment with battery energy storage
+AU  - Wang, B
+AU  - Zhou, M
+AU  - Xin, B
+AU  - Zhao, X
+AU  - Watada, J
+T2  - ENERGY
+DA  - 2019/07/01/
+PY  - 2019
+DO  - 10.1016/j.energy.2019.04.108
+VL  - 178
+SP  - 101
+EP  - 114
+LA  - English
+SN  - 0360-5442
+AN  - WOS:000472686300009
+KW  - Wind curtailment
+KW  - MODEL
+KW  - SYSTEM
+KW  - POWER
+KW  - ECONOMIC-DISPATCH
+KW  - UNCERTAINTY
+KW  - GENETIC ALGORITHM
+KW  - Hybrid uncertainties
+KW  - INTERVALS
+KW  - Multi-objective unit commitment
+KW  - Operation cost
+KW  - Particle swarm optimization
+KW  - PARTICLE SWARM OPTIMIZATION
+KW  - PENETRATION
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Optimal Power Dispatch of Active Distribution Network and P2P Energy Trading Based on Soft Actor-Critic Algorithm Incorporating Distributed Trading Control
+AU  - Y. Zhang
+AU  - J. Zhang
+AU  - G. Wu
+AU  - J. Zheng
+AU  - D. Liu
+AU  - Y. An
+T2  - Journal of Modern Power Systems and Clean Energy
+DA  - 2025/03//
+PY  - 2025
+DO  - 10.35833/MPCE.2024.000471
+VL  - 13
+IS  - 2
+SP  - 540
+EP  - 551
+J2  - Journal of Modern Power Systems and Clean Energy
+SN  - 2196-5420
+KW  - Optimization
+KW  - Peer-to-peer computing
+KW  - Regulation
+KW  - Costs
+KW  - Electricity
+KW  - Distribution networks
+KW  - active distribution network (ADN)
+KW  - distributed trading
+KW  - Optimal power dispatch
+KW  - peer-to-peer (P2P) energy trading
+KW  - Privacy
+KW  - privacy preservation
+KW  - soft actor-critic algorithm
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Optimal Economic Energy Management of Microgrid Using Deep Deterministic Policy Gradient (DDPG)
+AU  - M. -F. Dong
+AU  - J. -X. Li
+AU  - W. Huang
+AU  - W. -Y. Lin
+AU  - J. -C. Liao
+AU  - C. -Y. Hsueh
+T2  - 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
+C3  - 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
+DA  - 2025/06/27/30
+PY  - 2025
+DO  - 10.1109/IS3C65361.2025.11130992
+SP  - 1
+EP  - 4
+SN  - 2770-0496
+KW  - Battery energy storage system
+KW  - Microgrids
+KW  - microgrid
+KW  - Costs
+KW  - Renewable energy sources
+KW  - Biological system modeling
+KW  - Pricing
+KW  - Energy management
+KW  - battery energy storage system (BESS)
+KW  - Data centers
+KW  - deep deterministic policy gradient (DDPG)
+KW  - optimal economic energy management
+KW  - Photovoltaic systems
+KW  - Telecommunications
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Sizing Battery Storage for a Hybrid Power Plant Using Stochastic Optimisation: A Case Study
+AU  - J. F. Maripangui
+AU  - E. Gil
+T2  - 2025 IEEE PES 35th Australasian Universities Power Engineering Conference (AUPEC)
+C3  - 2025 IEEE PES 35th Australasian Universities Power Engineering Conference (AUPEC)
+DA  - 2025/10/29/Sept.-1
+PY  - 2025
+DO  - 10.1109/AUPEC66173.2025.11219629
+SP  - 1
+EP  - 5
+SN  - 2474-1507
+KW  - Battery energy storage system
+KW  - Optimization
+KW  - Uncertainty
+KW  - Costs
+KW  - Energy Arbitrage
+KW  - Battery Energy Storage System (BESS)
+KW  - Renewable energy sources
+KW  - Batteries
+KW  - Chilean Electricity Market
+KW  - Investment
+KW  - Stochastic processes
+KW  - Stochastic Programming
+KW  - Wind energy
+KW  - Wind Farm Optimisation
+KW  - Wind farms
+KW  - E1
+ER  - 
+
+TY  - CONF
+TI  - PPO-based Pricing Method for Shared Energy Storage System
+AU  - X. Li
+AU  - H. Liu
+AU  - C. Li
+AU  - G. Chen
+AU  - S. Wen
+T2  - 2022 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
+C3  - 2022 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
+DA  - 2022/11/01/5
+PY  - 2022
+DO  - 10.1109/ISGTAsia54193.2022.10003511
+SP  - 424
+EP  - 428
+SN  - 2378-8542
+KW  - Reinforcement learning
+KW  - deep reinforcement learning
+KW  - Virtual power plants
+KW  - Batteries
+KW  - Pricing
+KW  - Asia
+KW  - Smart grids
+KW  - Numerical simulation
+KW  - proximal policy optimization
+KW  - shared energy storage
+KW  - virtual power plant
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - Designing a 100% renewable-penetrated electricity market with battery energy storages assisted by reliable simulations
+AU  - X. Gao
+AU  - Z. Zhu
+AU  - S. Bu
+AU  - Y. Ye
+AU  - K. W. Chan
+T2  - CSEE Journal of Power and Energy Systems
+DA  - 2025///
+PY  - 2025
+DO  - 10.17775/CSEEJPES.2024.00580
+SP  - 1
+EP  - 12
+J2  - CSEE Journal of Power and Energy Systems
+SN  - 3066-9308
+KW  - Battery energy storage system
+KW  - Markov processes
+KW  - Power markets
+KW  - Reinforcement learning
+KW  - Climate change
+KW  - Battery Energy Storage
+KW  - Electricity supply industry
+KW  - Renewable energy sources
+KW  - Resource management
+KW  - Simulation
+KW  - 100% renewable-penetrated electricity market
+KW  - Electricity Market Design
+KW  - Electricity Market Simulation
+KW  - Global warming
+KW  - Low carbon economy
+KW  - Market research
+KW  - Multi-Agent Reinforcement Learning
+KW  - Multi-agent systems
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - A Virtual Power Plant Economic Scheduling Strategy Based on Deep Reinforcement Learning
+AU  - Y. Tang
+AU  - R. Lv
+AU  - Z. Xu
+AU  - C. Wang
+AU  - M. Guo
+AU  - C. Gao
+AU  - S. Guan
+T2  - 2023 5th International Conference on Power and Energy Technology (ICPET)
+C3  - 2023 5th International Conference on Power and Energy Technology (ICPET)
+DA  - 2023/07/27/30
+PY  - 2023
+DO  - 10.1109/ICPET59380.2023.10367600
+SP  - 1365
+EP  - 1370
+KW  - Reinforcement learning
+KW  - Decision making
+KW  - Deep learning
+KW  - deep reinforcement learning
+KW  - Virtual power plants
+KW  - Optimal scheduling
+KW  - virtual power plant
+KW  - blockchain
+KW  - optimal scheduling
+KW  - Processor scheduling
+KW  - Transforms
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Model-Free Learning System for Energy Management in Industrial Parks: A Bi-Level Deep Reinforcement Learning Architecture with Battery Degradation Estimation
+AU  - P. Mao
+AU  - Q. Zhong
+AU  - J. Huang
+AU  - L. Zou
+AU  - X. Qiu
+AU  - W. Zou
+T2  - 2025 China Automation Congress (CAC)
+C3  - 2025 China Automation Congress (CAC)
+DA  - 2025/09/26/28
+PY  - 2025
+DO  - 10.1109/CAC67268.2025.11486598
+SP  - 3931
+EP  - 3936
+SN  - 2688-0938
+KW  - Reinforcement learning
+KW  - Deep reinforcement learning
+KW  - Equivalent circuits
+KW  - Deep Reinforcement Learning
+KW  - Anodes
+KW  - Application specific integrated circuits
+KW  - Charging optimization
+KW  - Circuits
+KW  - Electrodes
+KW  - Energy storage arbitrage
+KW  - HTTP
+KW  - Industrial energy management
+KW  - Protocols
+KW  - System-on-chip
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - CONF
+TI  - Deep Reinforcement Learning Approach for Autonomous Agents in Consumer-centric Electricity Market
+AU  - Y. Liu
+AU  - D. Zhang
+AU  - C. Deng
+AU  - X. Wang
+T2  - 2020 5th IEEE International Conference on Big Data Analytics (ICBDA)
+C3  - 2020 5th IEEE International Conference on Big Data Analytics (ICBDA)
+DA  - 2020/05/08/11
+PY  - 2020
+DO  - 10.1109/ICBDA49040.2020.9099946
+SP  - 37
+EP  - 41
+KW  - Machine learning
+KW  - Peer-to-peer computing
+KW  - Linear programming
+KW  - artificial intelligence
+KW  - peer-to-peer energy trading
+KW  - smart grid
+KW  - Electricity supply industry
+KW  - Autonomous agents
+KW  - big data
+KW  - Power systems
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Frequency Response Using Deep Reinforcement Learning-Controlled Battery Energy Storage Systems
+AU  - A. S. Hasan
+AU  - R. Fan
+AU  - D. Wu
+T2  - 2025 57th North American Power Symposium (NAPS)
+C3  - 2025 57th North American Power Symposium (NAPS)
+DA  - 2025/10/26/28
+PY  - 2025
+DO  - 10.1109/NAPS66256.2025.11272197
+SP  - 1
+EP  - 6
+SN  - 2833-003X
+KW  - Battery energy storage system
+KW  - energy storage system
+KW  - Frequency control
+KW  - Power system stability
+KW  - Training
+KW  - frequency response
+KW  - Frequency response
+KW  - Learning-based control
+KW  - Load shedding
+KW  - Power system reliability
+KW  - power system stability
+KW  - Relays
+KW  - Reliability
+KW  - Time-frequency analysis
+KW  - E4
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Objective Energy Management Optimization on Grid-Integrated Microgrid Using Multi-Agent Deep Reinforcement Learning for Enhanced System Stability in HRES and BESS
+AU  - K. P. Y. Myint
+AU  - A. Deanseekeaw
+AU  - J. Pahasa
+AU  - P. Boonraksa
+AU  - T. Boonraksa
+AU  - B. Marungsri
+T2  - IEEE Access
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/ACCESS.2026.3668993
+VL  - 14
+SP  - 32905
+EP  - 32926
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Optimization
+KW  - Microgrids
+KW  - Deep reinforcement learning
+KW  - BESS
+KW  - Costs
+KW  - Stability criteria
+KW  - Renewable energy sources
+KW  - Power system stability
+KW  - microgrids
+KW  - Load modeling
+KW  - Energy management
+KW  - energy management
+KW  - HRES
+KW  - Multi-agent DRL
+KW  - Voltage
+KW  - voltage stability
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Multi-agent and Reinforcement Learning Schemes for Demand Response Estimation in Distributed Microgrids
+AU  - M. Ikram
+AU  - S. Ahmed
+AU  - S. N. K. Marwat
+AU  - M. Nasir
+T2  - 2023 6th International Conference on Energy Conservation and Efficiency (ICECE)
+C3  - 2023 6th International Conference on Energy Conservation and Efficiency (ICECE)
+DA  - 2023/03/15/16
+PY  - 2023
+DO  - 10.1109/ICECE58062.2023.10092514
+SP  - 1
+EP  - 6
+SN  - 2767-9829
+KW  - Reinforcement learning
+KW  - Microgrids
+KW  - Deep deterministic policy gradient
+KW  - Costs
+KW  - Deep Q-network
+KW  - Mathematical models
+KW  - Smart grids
+KW  - Power system reliability
+KW  - Demand response
+KW  - Distributed Smart grid
+KW  - Estimation
+KW  - Multi-agent control
+KW  - Networked microgrids
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Higher Renewable Generation Utilization via the Energy Trading Mechanism in Electricity Market
+AU  - B. Liu
+AU  - L. Sun
+AU  - X. Guo
+AU  - X. Han
+AU  - G. Chen
+T2  - 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)
+C3  - 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)
+DA  - 2023/12/15/18
+PY  - 2023
+DO  - 10.1109/EI259745.2023.10512672
+SP  - 4448
+EP  - 4453
+KW  - battery energy storage system
+KW  - energy trading
+KW  - Electricity supply industry
+KW  - Renewable energy sources
+KW  - System integration
+KW  - Wind energy
+KW  - Wind power generation
+KW  - electrical market
+KW  - Production
+KW  - PV & wind power
+KW  - renewable generation consumption
+KW  - Wind energy generation
+KW  - E1
+ER  - 
+
+TY  - CONF
+TI  - Energy Optimization Management of Multi-microgrid using Deep Reinforcement Learning
+AU  - T. Zhang
+AU  - D. Yue
+AU  - N. Zhao
+T2  - 2020 Chinese Automation Congress (CAC)
+C3  - 2020 Chinese Automation Congress (CAC)
+DA  - 2020/11/06/8
+PY  - 2020
+DO  - 10.1109/CAC51589.2020.9326507
+SP  - 4049
+EP  - 4053
+SN  - 2688-0938
+KW  - Optimization
+KW  - Uncertainty
+KW  - Microgrids
+KW  - Deep reinforcement learning
+KW  - Real-time systems
+KW  - Batteries
+KW  - Telecommunications
+KW  - Energy optimization management
+KW  - Multi-microgrid
+KW  - Power balance
+KW  - Power generation
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Microgrid Energy Management Under Power Flow Uncertainty Using Deep Reinforcement Learning
+AU  - N. Kaewdornhan
+AU  - K. Kawabe
+AU  - R. Chatthaworn
+T2  - 2025 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
+C3  - 2025 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
+DA  - 2025/11/07/9
+PY  - 2025
+DO  - 10.1109/ISGTAsia63446.2025.11431376
+SP  - 23
+EP  - 28
+SN  - 2378-8542
+KW  - Uncertainty
+KW  - Microgrids
+KW  - Deep reinforcement learning
+KW  - deep reinforcement learning
+KW  - Costs
+KW  - Training
+KW  - Energy management
+KW  - Photovoltaic systems
+KW  - Simulation
+KW  - electric vehicle
+KW  - energy management system
+KW  - Load flow
+KW  - power flow uncertainty
+KW  - solar photovoltaic system
+KW  - Transformers
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - A Q-learning based Adaptive Control of Hybrid Energy Storage System to Mitigate Power Fluctuations in Grid-Connected Microgrids
+AU  - M. Rajabinezhad
+AU  - N. Shams
+AU  - J. Zhao
+AU  - S. Zuo
+T2  - IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society
+C3  - IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society
+DA  - 2024/11/03/6
+PY  - 2024
+DO  - 10.1109/IECON55916.2024.10905840
+SP  - 1
+EP  - 4
+KW  - Microgrids
+KW  - Wind turbines
+KW  - Q-learning
+KW  - Fluctuations
+KW  - Tuning
+KW  - Wind power generation
+KW  - Adaptive control
+KW  - Hybrid energy storage systems
+KW  - Low-pass filters
+KW  - Power conversion
+KW  - Power fluctuation
+KW  - Supercapacitors
+KW  - Time-varying Low-pass Filter
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Novel Cooperative Voltage Regulation and Economic Operation for Hydrogen-containing Distribution Networks
+AU  - H. Liu
+AU  - E. Hao
+AU  - J. Cui
+AU  - L. He
+AU  - W. Duan
+AU  - S. Sun
+AU  - J. Huang
+T2  - 2024 4th International Conference on New Energy and Power Engineering (ICNEPE)
+C3  - 2024 4th International Conference on New Energy and Power Engineering (ICNEPE)
+DA  - 2024/11/08/10
+PY  - 2024
+DO  - 10.1109/ICNEPE64067.2024.10860724
+SP  - 904
+EP  - 908
+KW  - Optimization
+KW  - Microgrids
+KW  - Deep reinforcement learning
+KW  - Neural networks
+KW  - Voltage control
+KW  - voltage regulation
+KW  - Imitation learning
+KW  - Hydrogen
+KW  - Distribution networks
+KW  - Games
+KW  - economic operation
+KW  - Hydrogen-containing microgrids
+KW  - Minimization
+KW  - new distribution grids
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Optimizing Microgrid Profits Through Automated P2P Energy Trading Using Blockchain and BESS
+AU  - S. Tharumaraja
+AU  - M. P. P. Liyanage
+AU  - A. Wijethunge
+AU  - J. Ekanayake
+T2  - TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)
+C3  - TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)
+DA  - 2025/10/27/30
+PY  - 2025
+DO  - 10.1109/TENCON66050.2025.11375188
+SP  - 1088
+EP  - 1092
+SN  - 2159-3450
+KW  - Microgrids
+KW  - Peer-to-peer computing
+KW  - Distributed Energy Resources
+KW  - Real-time systems
+KW  - Tariffs
+KW  - Photovoltaic systems
+KW  - Autonomous energy trading
+KW  - Blockchains
+KW  - Demand forecasting
+KW  - Distributed power generation
+KW  - Peer-to-Peer Energy Trading
+KW  - Power demand
+KW  - Smart contracts
+KW  - Very Short-Term Demand Forecasting
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Utilizing Flexibility from P2P Network for Frequency Control Under a Coordinated TSO-DSO Framework
+AU  - L. Debbarma
+AU  - S. Debbarma
+AU  - K. Roy
+AU  - P. P. Singh
+T2  - 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC)
+C3  - 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC)
+DA  - 2025/12/10/13
+PY  - 2025
+DO  - 10.1109/STPEC66316.2025.11490913
+SP  - 1
+EP  - 6
+KW  - Peer-to-peer computing
+KW  - Multi-Agent Reinforcement Learning
+KW  - Application specific integrated circuits
+KW  - Circuits
+KW  - Protocols
+KW  - System-on-chip
+KW  - Automatic Generation Control
+KW  - Battery Energy System Storage (BESS)
+KW  - Computer networks
+KW  - Filtering
+KW  - Filters
+KW  - Integrated circuits
+KW  - Large scale integration
+KW  - Load Aggregator
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement learning-based profit maximization for battery energy storage systems with electric vehicles and photovoltaic systems
+AU  - D. Chen
+AU  - H. Li
+AU  - C. S. Lai
+AU  - L. L. Lai
+T2  - Energy Storage Conference 2023 (ESC 2023)
+C3  - Energy Storage Conference 2023 (ESC 2023)
+DA  - 2023/11/15/16
+PY  - 2023
+DO  - 10.1049/icp.2023.3100
+VL  - 2023
+SP  - 35
+EP  - 40
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Hierarchical Energy Management of Interconnected Multimicrogrids for Enhanced Economic Efficiency and Environmental Sustainability
+AU  - A. Mohan
+AU  - K. Thirumala
+AU  - J. J. Prakash
+AU  - G. S. Ilango
+T2  - IEEE Systems Journal
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1109/JSYST.2025.3623530
+VL  - 19
+IS  - 4
+SP  - 1169
+EP  - 1180
+J2  - IEEE Systems Journal
+SN  - 1937-9234
+KW  - Battery energy storage system
+KW  - Optimization
+KW  - Decision making
+KW  - State of charge
+KW  - Costs
+KW  - Energy management
+KW  - Demand response
+KW  - Minimization
+KW  - Adjustable power
+KW  - Algorithm design and analysis
+KW  - energy trading strategy (ETS)
+KW  - Greenhouse gases
+KW  - interconnected multimicrogrid (IMMG)
+KW  - multiobjective optimization (MOO)
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - SAC and DAC Approach for Load Frequency Controller with Multi-Battery Energy Storage
+AU  - D. Gamage
+AU  - C. Wanigasekara
+AU  - A. Ukil
+AU  - A. Swain
+T2  - 2024 IEEE Green Technologies Conference (GreenTech)
+C3  - 2024 IEEE Green Technologies Conference (GreenTech)
+DA  - 2024/04/03/5
+PY  - 2024
+DO  - 10.1109/GreenTech58819.2024.10520418
+SP  - 1
+EP  - 5
+SN  - 2166-5478
+KW  - State of charge
+KW  - Power system dynamics
+KW  - Batteries
+KW  - Simulation
+KW  - Battery energy storage systems (BESSs)
+KW  - Communication graph
+KW  - Decentralized control
+KW  - Finite element analysis
+KW  - Load Frequency control
+KW  - Multi agent system
+KW  - Parameter estimation
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Integrated Underfrequency Load Shedding Strategy for Islanded Microgrids Integrating Multiclass Load-Related Factors
+AU  - C. Wang
+AU  - B. Cheng
+AU  - X. He
+AU  - L. Xi
+AU  - N. Yang
+AU  - Z. Zhao
+AU  - C. S. Lai
+AU  - L. L. Lai
+T2  - IEEE Transactions on Smart Grid
+DA  - 2025/11//
+PY  - 2025
+DO  - 10.1109/TSG.2025.3586757
+VL  - 16
+IS  - 6
+SP  - 4305
+EP  - 4323
+J2  - IEEE Transactions on Smart Grid
+SN  - 1949-3061
+KW  - Microgrids
+KW  - Microgrid
+KW  - Frequency control
+KW  - Power system stability
+KW  - Load modeling
+KW  - Training
+KW  - Load shedding
+KW  - Data models
+KW  - DBR-SD3
+KW  - Frequency measurement
+KW  - load-related factors
+KW  - Time factors
+KW  - underfrequency load shedding
+KW  - Voltage measurement
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Decentralized energy exchange: a blockchain-based peer-to-peer trading framework for microgrids with battery storage
+AU  - V. U. Rani
+AU  - P. Naresh
+T2  - 2025 IEEE Silchar Subsection Conference (SILCON)
+C3  - 2025 IEEE Silchar Subsection Conference (SILCON)
+DA  - 2025/11/06/8
+PY  - 2025
+DO  - 10.1109/SILCON67893.2025.11327006
+SP  - 1
+EP  - 6
+KW  - Battery energy storage system
+KW  - Microgrids
+KW  - microgrid
+KW  - Peer-to-peer computing
+KW  - battery energy storage systems
+KW  - Real-time systems
+KW  - Electricity
+KW  - Load modeling
+KW  - Smart grids
+KW  - blockchain
+KW  - Blockchains
+KW  - Smart contracts
+KW  - distributed energy resources
+KW  - Peer-to-peer energy trading
+KW  - smart contracts
+KW  - Systems architecture
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Demand-Side Joint Electricity and Carbon Trading Mechanism
+AU  - H. Hua
+AU  - X. Chen
+AU  - L. Gan
+AU  - J. Sun
+AU  - N. Dong
+AU  - D. Liu
+AU  - Z. Qin
+AU  - K. Li
+AU  - S. Hu
+T2  - IEEE Transactions on Industrial Cyber-Physical Systems
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/TICPS.2023.3335328
+VL  - 2
+SP  - 14
+EP  - 25
+J2  - IEEE Transactions on Industrial Cyber-Physical Systems
+SN  - 2832-7004
+KW  - Optimization
+KW  - Costs
+KW  - Climate change
+KW  - demand response
+KW  - Real-time systems
+KW  - Renewable energy sources
+KW  - Market research
+KW  - Demand response
+KW  - Carbon dioxide
+KW  - carbon emission liability
+KW  - Carbon emissions
+KW  - Emissions trading
+KW  - Joint electricity and carbon trading
+KW  - Low-carbon economy
+KW  - Monte Carlo methods
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - Optimal Scheduling of Grid Supply and Batteries Operation in Residential Building: Rules and Learning Approaches
+AU  - A. Selim
+AU  - H. Mo
+AU  - H. Pota
+T2  - 2022 IEEE 5th Student Conference on Electric Machines and Systems (SCEMS)
+C3  - 2022 IEEE 5th Student Conference on Electric Machines and Systems (SCEMS)
+DA  - 2022/11/24/26
+PY  - 2022
+DO  - 10.1109/SCEMS56272.2022.9990764
+SP  - 1
+EP  - 6
+SN  - 2771-7577
+KW  - Reinforcement learning
+KW  - Reinforcement Learning
+KW  - optimization
+KW  - Scheduling
+KW  - Batteries
+KW  - Optimal scheduling
+KW  - Buildings
+KW  - Energy Storage
+KW  - Fuzzy logic
+KW  - Fuzzy Logic
+KW  - Load demand
+KW  - Schedules
+KW  - State of Health
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - A Slice Puncturing Scheme of Energy Storage Batteries for Grid Frequency Regulation
+AU  - J. Feng
+AU  - H. Hui
+AU  - S. Yang
+AU  - F. Hou
+T2  - IEEE Transactions on Smart Grid
+DA  - 2026/01//
+PY  - 2026
+DO  - 10.1109/TSG.2025.3602645
+VL  - 17
+IS  - 1
+SP  - 845
+EP  - 857
+J2  - IEEE Transactions on Smart Grid
+SN  - 1949-3061
+KW  - Frequency regulation
+KW  - Quality of service
+KW  - Frequency control
+KW  - Resource management
+KW  - Batteries
+KW  - 5G slice puncturing
+KW  - Delay effects
+KW  - Delays
+KW  - energy storage batteries
+KW  - Hands
+KW  - Phasor measurement units
+KW  - spectrum-limited
+KW  - Ultra reliable low latency communication
+KW  - Wireless communication
+KW  - wireless transmission
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Agent-based Self-discipline Operation of Integrated Energy System
+AU  - T. Wang
+AU  - T. Xiang
+AU  - B. Xu
+AU  - Y. Xiang
+T2  - 2022 7th Asia Conference on Power and Electrical Engineering (ACPEE)
+C3  - 2022 7th Asia Conference on Power and Electrical Engineering (ACPEE)
+DA  - 2022/04/15/17
+PY  - 2022
+DO  - 10.1109/ACPEE53904.2022.9783653
+SP  - 2002
+EP  - 2007
+KW  - Markov processes
+KW  - Uncertainty
+KW  - Linear programming
+KW  - Renewable energy sources
+KW  - Economics
+KW  - Training
+KW  - agent
+KW  - DDPG
+KW  - fault conditions
+KW  - IES
+KW  - Operations research
+KW  - E1
+ER  - 
+
+TY  - CONF
+TI  - Mobile Microgrid Network Using Seamless Integration of Multiple Small Applications
+AU  - N. Gnanam
+AU  - R. Krishna
+AU  - M. Mahesh
+T2  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
+C3  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
+DA  - 2025/10/11/13
+PY  - 2025
+DO  - 10.1109/GIEST66547.2025.11387558
+SP  - 1
+EP  - 6
+KW  - Microgrids
+KW  - Voltage control
+KW  - State of charge
+KW  - Battery
+KW  - Generators
+KW  - Batteries
+KW  - Photovoltaic systems
+KW  - and Efficiency
+KW  - Fuels
+KW  - Mobile Microgrid
+KW  - Plug and Play
+KW  - Sliding mode control
+KW  - Solar
+KW  - Total harmonic distortion
+KW  - Transient analysis
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Hybrid Multi-Objective Swarm Intelligence and Self-Evolving Neural Networks for Grid Stability in Renewable-Heavy Systems
+AU  - K. Addo
+AU  - K. Moloi
+AU  - M. Kabeya
+AU  - E. E. Ojo
+T2  - 2025 Conference on Information Communications Technology and Society (ICTAS)
+C3  - 2025 Conference on Information Communications Technology and Society (ICTAS)
+DA  - 2025/07/23/25
+PY  - 2025
+DO  - 10.1109/ICTAS64866.2025.11155772
+SP  - 1
+EP  - 6
+KW  - Optimization
+KW  - Neural networks
+KW  - Real-time systems
+KW  - Renewable energy sources
+KW  - Power system stability
+KW  - Particle swarm optimization
+KW  - Smart grids
+KW  - Optimal control
+KW  - Stability analysis
+KW  - Grid Stability
+KW  - Multi-Objective Optimization
+KW  - Renewable Energy Systems
+KW  - Self-Evolving Neural Networks
+KW  - Sensitivity analysis
+KW  - Swarm Intelligence
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - A Transactive Energy Framework for Hydrogen Production with Economically Viable Nuclear Power
+AU  - S. Mahmud
+AU  - S. Sah
+AU  - B. Ponkiya
+AU  - S. Katikaneni
+AU  - D. Raker
+AU  - M. Heben
+AU  - R. Khanna
+AU  - A. Javaid
+AU  - Z. Yi
+AU  - T. Westover
+AU  - Y. Luo
+T2  - 2022 IEEE/PES Transmission and Distribution Conference and Exposition (T&D)
+C3  - 2022 IEEE/PES Transmission and Distribution Conference and Exposition (T&D)
+DA  - 2022/04/25/28
+PY  - 2022
+DO  - 10.1109/TD43745.2022.9816903
+SP  - 1
+EP  - 5
+SN  - 2160-8563
+KW  - Reinforcement learning
+KW  - Profitability
+KW  - integrated energy system
+KW  - Hydrogen
+KW  - Renewable energy sources
+KW  - Pricing
+KW  - Production
+KW  - economic viability
+KW  - nuclear flexibility
+KW  - transactive energy
+KW  - Transactive energy
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Agent Energy Market Simulations With Machine Learning Integration: A Systematic Literature Review
+AU  - B. Gokce
+AU  - G. Kayakutlu
+T2  - IEEE Access
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3580735
+VL  - 13
+SP  - 106003
+EP  - 106018
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - machine learning
+KW  - Electricity supply industry
+KW  - Adaptation models
+KW  - Electricity
+KW  - Biological system modeling
+KW  - Investment
+KW  - Production
+KW  - Power generation
+KW  - Carbon dioxide
+KW  - Agent-based modeling
+KW  - energy markets
+KW  - multi-agent systems
+KW  - Self-organizing feature maps
+KW  - self-organizing map
+KW  - Software tools
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Mitigating the Impact of Photovoltaic Power Ramps on Intraday Economic Dispatch Using Reinforcement Forecasting
+AU  - L. Cheng
+AU  - H. Zang
+AU  - A. Trivedi
+AU  - D. Srinivasan
+AU  - Z. Wei
+AU  - G. Sun
+T2  - IEEE Transactions on Sustainable Energy
+DA  - 2024/01//
+PY  - 2024
+DO  - 10.1109/TSTE.2023.3261444
+VL  - 15
+IS  - 1
+SP  - 3
+EP  - 12
+J2  - IEEE Transactions on Sustainable Energy
+SN  - 1949-3037
+KW  - Optimization
+KW  - reinforcement learning
+KW  - Forecasting
+KW  - Biological system modeling
+KW  - Power systems
+KW  - Power generation
+KW  - Predictive models
+KW  - Intraday power system dispatch
+KW  - PV power forecasting
+KW  - PV power ramp event
+KW  - Weather forecasting
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Control Design and EMT Simulation Toward the Restoration of Faulted Wind-Dominant Grids
+AU  - H. P. Dang
+AU  - Z. Zhang
+AU  - H. N. Villegas Pico
+T2  - IEEE Transactions on Sustainable Energy
+DA  - 2025/10//
+PY  - 2025
+DO  - 10.1109/TSTE.2025.3553088
+VL  - 16
+IS  - 4
+SP  - 2414
+EP  - 2433
+J2  - IEEE Transactions on Sustainable Energy
+SN  - 1949-3037
+KW  - Power grids
+KW  - Voltage control
+KW  - Wind turbines
+KW  - Batteries
+KW  - Wind farms
+KW  - Wind power generation
+KW  - Control design
+KW  - Electromagnetic transients
+KW  - Grid forming
+KW  - power system restoration
+KW  - Power system restoration
+KW  - Synchronization
+KW  - wind farms
+KW  - Wind speed
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Modelling and Simulation Approaches for Local Energy Community Integrated Distribution Networks
+AU  - R. Rana
+AU  - K. Berg
+AU  - M. Z. Degefa
+AU  - M. Löschenbrand
+T2  - IEEE Access
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3140237
+VL  - 10
+SP  - 3775
+EP  - 3789
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Battery energy storage system
+KW  - Optimization
+KW  - Microgrids
+KW  - photovoltaic
+KW  - Peer-to-peer computing
+KW  - Real-time systems
+KW  - Distribution networks
+KW  - Biological system modeling
+KW  - Energy management
+KW  - energy management system
+KW  - community manager
+KW  - distribution system operator
+KW  - local energy community
+KW  - prosumers
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Leveraging AI Algorithms for Automated Bidding in Electricity Markets: A Solar-Storage Hybrid Approach With Blockchain-Based Energy Tokenization
+AU  - A. J. Jimenez
+AU  - E. J. Becil
+AU  - M. E. Alebicto
+AU  - R. G. Salgado
+AU  - R. Gomez
+T2  - 2025 IEEE Electrical Insulation Conference (EIC)
+C3  - 2025 IEEE Electrical Insulation Conference (EIC)
+DA  - 2025/06/08/11
+PY  - 2025
+DO  - 10.1109/EIC63069.2025.11123269
+SP  - 1
+EP  - 3
+SN  - 2993-3684
+KW  - Artificial intelligence
+KW  - Heuristic algorithms
+KW  - Blockchain
+KW  - Electricity supply industry
+KW  - Renewable energy sources
+KW  - Resource management
+KW  - Transforms
+KW  - Blockchains
+KW  - Weather forecasting
+KW  - Artificial Intelligence
+KW  - Automated Bidding
+KW  - Crypto Wallets
+KW  - Decentralized Energy
+KW  - Electricity Markets
+KW  - Energy Tokens
+KW  - SolarStorage Systems
+KW  - Tokenization
+KW  - Wind
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
+
+TY  - JOUR
+TI  - A Two-Timescale Operation Strategy for Battery Storage in Joint Frequency and Energy Markets
+AU  - Q. Ma
+AU  - W. Wei
+AU  - S. Mei
+T2  - IEEE Transactions on Energy Markets, Policy and Regulation
+DA  - 2024/06//
+PY  - 2024
+DO  - 10.1109/TEMPR.2023.3324920
+VL  - 2
+IS  - 2
+SP  - 200
+EP  - 213
+J2  - IEEE Transactions on Energy Markets, Policy and Regulation
+SN  - 2771-9626
+KW  - Battery storage
+KW  - Optimization
+KW  - Dynamic programming
+KW  - Regulation
+KW  - frequency regulation
+KW  - energy arbitrage
+KW  - Frequency control
+KW  - Renewable energy sources
+KW  - Batteries
+KW  - Stochastic processes
+KW  - Automatic generation control
+KW  - Battery storage plants
+KW  - online dynamic programming
+KW  - Online services
+KW  - two-timescale control
+KW  - E1
+ER  - 
+
+TY  - CONF
+TI  - Battery Scheduling and Smart Inverter Volt/Var Control for Voltage Stability in Microgrids
+AU  - B. Khan
+AU  - S. Shafiq
+AU  - C. H. Vermette
+AU  - U. Eicker
+T2  - 2025 IEEE International Conference on Energy Technologies for Future Grids (ETFG)
+C3  - 2025 IEEE International Conference on Energy Technologies for Future Grids (ETFG)
+DA  - 2025/12/07/11
+PY  - 2025
+DO  - 10.1109/ETFG61999.2025.11402056
+SP  - 1
+EP  - 5
+KW  - Optimization
+KW  - Microgrids
+KW  - Distributed energy resources
+KW  - Voltage control
+KW  - Costs
+KW  - Batteries
+KW  - Smart grids
+KW  - Stability analysis
+KW  - Photovoltaic systems
+KW  - Distributed power generation
+KW  - electric vehicles
+KW  - Inverters
+KW  - low voltage grids
+KW  - smart inverters
+KW  - solar photovoltaics
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Virtual Power Plants for Frequency Regulation: A Learning-Based Method With Safety Guarantee
+AU  - M. Zhang
+AU  - Y. Xu
+AU  - L. Sang
+AU  - Y. Guo
+AU  - N. D. Hatziargyriou
+T2  - IEEE Transactions on Smart Grid
+DA  - 2026/01//
+PY  - 2026
+DO  - 10.1109/TSG.2025.3618896
+VL  - 17
+IS  - 1
+SP  - 388
+EP  - 401
+J2  - IEEE Transactions on Smart Grid
+SN  - 1949-3061
+KW  - reinforcement learning
+KW  - Regulation
+KW  - Costs
+KW  - Virtual power plants
+KW  - Frequency control
+KW  - Power system stability
+KW  - Safety
+KW  - frequency response
+KW  - Frequency response
+KW  - Frequency measurement
+KW  - Aggregates
+KW  - Artificial neural networks
+KW  - performance guarantee
+KW  - Phase locked loops
+KW  - virtual inertia
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Stochastic Dispatch of Battery Storage via Neural Policies for AI-Driven Data Centers
+AU  - G. Mou
+AU  - J. Wang
+AU  - D. Cai
+AU  - D. Wu
+T2  - IEEE Transactions on Industry Applications
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/TIA.2026.3677229
+SP  - 1
+EP  - 10
+J2  - IEEE Transactions on Industry Applications
+SN  - 1939-9367
+KW  - Optimization
+KW  - Uncertainty
+KW  - Artificial intelligence
+KW  - Costs
+KW  - Battery energy storage systems (BESS)
+KW  - Mathematical models
+KW  - Batteries
+KW  - Degradation
+KW  - Data centers
+KW  - Stochastic processes
+KW  - Safety
+KW  - chance constraints
+KW  - data center energy management
+KW  - deep neural network
+KW  - risk-averse optimization
+KW  - stochastic optimal control
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Modeling and Load Frequency Control of a 20 kW Renewable Picogrid with Hydro, PV, and Battery Storage for Remote Electrification in Manipur
+AU  - S. Hashunao
+AU  - R. K. Mehta
+T2  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
+C3  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
+DA  - 2025/10/11/13
+PY  - 2025
+DO  - 10.1109/GIEST66547.2025.11387557
+SP  - 1
+EP  - 6
+KW  - Frequency control
+KW  - Renewable energy sources
+KW  - Economics
+KW  - Load modeling
+KW  - Time-frequency analysis
+KW  - Battery Storage
+KW  - Economic Load Dispatch
+KW  - Electrification
+KW  - Hydraulic turbines
+KW  - kWh
+KW  - Load forecasting
+KW  - Load Frequency Control
+KW  - PI control
+KW  - Picrogrid
+KW  - Quasi-Newton Method
+KW  - Small Hydro
+KW  - Solar PV
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Ultra-Low Frequency Oscillation Damping Control Method for Hydro-Photovoltaic Integrated Systems
+AU  - S. Wang
+AU  - Y. Xu
+AU  - X. Wu
+AU  - J. Wang
+AU  - G. Chen
+AU  - X. Zeng
+T2  - IEEE Transactions on Power Electronics
+DA  - 2025/01//
+PY  - 2025
+DO  - 10.1109/TPEL.2024.3458910
+VL  - 40
+IS  - 1
+SP  - 2397
+EP  - 2418
+J2  - IEEE Transactions on Power Electronics
+SN  - 1941-0107
+KW  - Generators
+KW  - Mathematical models
+KW  - Frequency response
+KW  - Damping
+KW  - Damping torque
+KW  - frequency oscillation
+KW  - Hydroelectric power generation
+KW  - hydropower generator
+KW  - Oscillators
+KW  - photovoltaic (PV) plant
+KW  - primary frequency control
+KW  - Torque
+KW  - ultra-low frequency oscillation (ULFO)
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive Pricing-Based Optimized Resource Utilization in Networked Microgrids
+AU  - S. M. Ahsan
+AU  - M. A. Iqbal
+AU  - A. Hussain
+AU  - P. Musilek
+T2  - IEEE Access
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3543760
+VL  - 13
+SP  - 34483
+EP  - 34495
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Optimization
+KW  - Power markets
+KW  - Microgrids
+KW  - Energy management systems
+KW  - battery energy storage
+KW  - Training
+KW  - Resource management
+KW  - Games
+KW  - Pricing
+KW  - Energy management
+KW  - energy management
+KW  - Adaptive pricing
+KW  - Adaptive systems
+KW  - power sharing
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - Dual-Consensus-Based Distributed Frequency Control for Multiple Energy Storage Systems
+AU  - L. Xing
+AU  - Y. Mishra
+AU  - Y. -C. Tian
+AU  - G. Ledwich
+AU  - H. Su
+AU  - C. Peng
+AU  - M. Fei
+T2  - IEEE Transactions on Smart Grid
+DA  - 2019/11//
+PY  - 2019
+DO  - 10.1109/TSG.2019.2904075
+VL  - 10
+IS  - 6
+SP  - 6396
+EP  - 6403
+J2  - IEEE Transactions on Smart Grid
+SN  - 1949-3061
+KW  - Frequency control
+KW  - Generators
+KW  - Renewable energy sources
+KW  - Power system stability
+KW  - Batteries
+KW  - Power generation
+KW  - battery energy storage systems (BESSs)
+KW  - consensus
+KW  - distributed control
+KW  - state-of-charge
+KW  - E3
+ER  - 
+
+TY  - JOUR
+TI  - End-to-End Collaborative Optimization for Active Distribution Network Power Dispatch Based on Sparse Model-Ensemble Learning Policy
+AU  - L. Cheng
+AU  - K. Sun
+AU  - H. Zang
+AU  - G. Sun
+AU  - Z. Wei
+T2  - IEEE Transactions on Sustainable Energy
+DA  - 2026/01//
+PY  - 2026
+DO  - 10.1109/TSTE.2025.3596867
+VL  - 17
+IS  - 1
+SP  - 197
+EP  - 206
+J2  - IEEE Transactions on Sustainable Energy
+SN  - 1949-3037
+KW  - Optimization
+KW  - reinforcement learning
+KW  - Forecasting
+KW  - Reactive power
+KW  - State of charge
+KW  - Real-time systems
+KW  - Distribution networks
+KW  - Load modeling
+KW  - Numerical models
+KW  - Predictive models
+KW  - Active distribution network
+KW  - distributed energy source
+KW  - end-to-end policy
+KW  - Meteorology
+KW  - power dispatch
+KW  - E2
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing Battery Storage Energy Arbitrage With Deep Reinforcement Learning and Time-Series Forecasting
+AU  - Sage, Manuel; Campbell, Joshua; Zhao, Yaoyao Fiona
+T2  - ASME 2024 18th International Conference on Energy Sustainability
+DA  - 2024///
+PY  - 2024
+DO  - 10.1115/es2024-130538
+VL  - NA
+IS  - NA
+SP  - NA
+EP  - NA
+PB  - American Society of Mechanical Engineers
+KW  - Battery storage
+KW  - Electricity prices
+KW  - reinforcement learning
+KW  - Reinforcement learning
+KW  - Reinforcement learnings
+KW  - Uncertainty
+KW  - Battery energy storage
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - deep learning
+KW  - battery energy storage
+KW  - Energy arbitrages
+KW  - energy arbitrage
+KW  - Battery storage energies
+KW  - Learn+
+KW  - Reinforcement learning agent
+KW  - Time series forecasting
+KW  - time-series forecasting
+KW  - SYSTEM
+KW  - LSTM
+KW  - SHORT-TERM-MEMORY
+KW  - Include
+KW  - Full-text info extracted
+ER  - 
