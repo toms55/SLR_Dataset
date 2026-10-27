@@ -2,12 +2,11 @@ TY  - CONF
 TI  - A Machine Learning Approach for Prosumer Management in Intraday Electricity Markets
 AU  - Mohammadi, S.
 AU  - Hesamzadeh, M.R.
-T2  - 2022 IEEE Workshop on Complexity in Engineering, COMPENG 2022
+C3  - 2022 IEEE Workshop on Complexity in Engineering, COMPENG 2022
 DA  - 2022///
 PY  - 2022
 DO  - 10.1109/COMPENG50184.2022.9905458
 UR  - https://www.scopus.com/pages/publications/85141077948?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -49,13 +48,12 @@ AU  - Sayed, S.T.
 AU  - Sayed, K.
 AU  - Khamis, M.
 AU  - Mohamed, M.A.
-T2  - Proceedings of the International Middle East Power System Conference, MEPCON
+C3  - Proceedings of the International Middle East Power System Conference, MEPCON
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/MEPCON66918.2026.11360235
 IS  - 2025
 UR  - https://www.scopus.com/pages/publications/105033219500?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
 KW  - Digital storage
 KW  - Learning algorithms
@@ -107,7 +105,6 @@ DA  - 2021///
 PY  - 2021
 VL  - 1449
 UR  - https://www.scopus.com/pages/publications/85115168368?origin=resultslist
-DB  - Scopus
 KW  - E6
 ER  - 
 
@@ -123,7 +120,6 @@ PY  - 2021
 DO  - 10.1016/j.epsr.2021.107229
 VL  - 196
 UR  - https://www.scopus.com/pages/publications/85104141273?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -167,7 +163,6 @@ PY  - 2025
 DO  - 10.1016/j.apenergy.2025.126702
 VL  - 401
 UR  - https://www.scopus.com/pages/publications/105016721332?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Digital storage
 KW  - Learning algorithms
@@ -212,7 +207,6 @@ PY  - 2025
 DO  - 10.1016/j.est.2025.115428
 VL  - 115
 UR  - https://www.scopus.com/pages/publications/85218621363?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
 KW  - Reinforcement learning
 KW  - Reinforcement learnings
@@ -245,12 +239,11 @@ AU  - Xu, T.
 AU  - Yao, Y.
 AU  - Wang, C.
 AU  - Liu, W.
-T2  - Energy Proceedings
+C3  - Energy Proceedings
 DA  - 2025///
 PY  - 2025
 VL  - 60
 UR  - https://www.scopus.com/pages/publications/105031481042?origin=resultslist
-DB  - Scopus
 KW  - DQN
 KW  - economic dispatch
 KW  - integrated energy system
@@ -266,7 +259,6 @@ PY  - 2023
 VL  - 2023
 IS  - 28
 UR  - https://www.scopus.com/pages/publications/85188308790?origin=resultslist
-DB  - Scopus
 KW  - E6
 ER  - 
 
@@ -285,7 +277,6 @@ PY  - 2025
 DO  - 10.1016/j.energy.2025.139476
 VL  - 341
 UR  - https://www.scopus.com/pages/publications/105023830938?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -336,7 +327,6 @@ SP  - 2449
 EP  - 2463
 ST  - 考虑电网调峰需求的工业园区主动配电系统调度学习优化
 UR  - https://www.scopus.com/pages/publications/85119889111?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Markov processes
 KW  - Reinforcement learning
@@ -373,14 +363,13 @@ AU  - Xu, Y.
 AU  - Xu, J.
 AU  - Lu, Y.
 AU  - Zhou, Y.
-T2  - 2023 IEEE 7th Conference on Energy Internet and Energy System Integration, EI2 2023
+C3  - 2023 IEEE 7th Conference on Energy Internet and Energy System Integration, EI2 2023
 DA  - 2023///
 PY  - 2023
 DO  - 10.1109/EI259745.2023.10513107
 SP  - 1709
 EP  - 1714
 UR  - https://www.scopus.com/pages/publications/85194176659?origin=resultslist
-DB  - Scopus
 KW  - Learning algorithms
 KW  - Learning systems
 KW  - Markov processes
@@ -426,7 +415,6 @@ DO  - 10.1016/B978-0-443-21524-7.00014-1
 SP  - 161
 EP  - 188
 UR  - https://www.scopus.com/pages/publications/85216420150?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Reinforcement learning
 KW  - Distributed energy resources
@@ -442,14 +430,13 @@ AU  - Yu, J.
 AU  - Wan, Y.
 AU  - Li, S.
 AU  - Li, F.
-T2  - 2025 IEEE 4th International Conference on Industrial Electronics for Sustainable Energy Systems, IESES 2025
+C3  - 2025 IEEE 4th International Conference on Industrial Electronics for Sustainable Energy Systems, IESES 2025
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/IESES66335.2025.11359894
 SP  - 394
 EP  - 399
 UR  - https://www.scopus.com/pages/publications/105033531089?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Markov processes
 KW  - Optimization
@@ -498,7 +485,6 @@ VL  - 13
 SP  - 75648
 EP  - 75665
 UR  - https://www.scopus.com/pages/publications/105004040506?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Optimization
@@ -543,12 +529,11 @@ TI  - The economic dispatch of power-To-gas systems with deep reinforcement lear
 AU  - Sage, M.
 AU  - Al Handawi, K.
 AU  - Zhao, Y.F.
-T2  - Proceedings of ASME 2025 19th International Conference on Energy Sustainability, ES 2025
+C3  - Proceedings of ASME 2025 19th International Conference on Energy Sustainability, ES 2025
 DA  - 2025///
 PY  - 2025
 DO  - 10.1115/ES2025-156635
 UR  - https://www.scopus.com/pages/publications/105018576056?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Learning systems
 KW  - reinforcement learning
@@ -594,7 +579,6 @@ IS  - 6
 SP  - 7089
 EP  - 7101
 UR  - https://www.scopus.com/pages/publications/85186962801?origin=resultslist
-DB  - Scopus
 KW  - Digital storage
 KW  - Power markets
 KW  - Reinforcement learning
@@ -643,7 +627,6 @@ IS  - 5
 SP  - 665
 EP  - 677
 UR  - https://www.scopus.com/pages/publications/85147573041?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -679,14 +662,13 @@ TY  - CONF
 TI  - Battery Energy Storage Control Using Reinforcement Learning
 AU  - Basso, E.
 AU  - Du, Y.
-T2  - 2023 International Future Energy Electronics Conference, IFEEC 2023
+C3  - 2023 International Future Energy Electronics Conference, IFEEC 2023
 DA  - 2023///
 PY  - 2023
 DO  - 10.1109/IFEEC58486.2023.10458579
 SP  - 435
 EP  - 439
 UR  - https://www.scopus.com/pages/publications/85189751537?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -723,7 +705,7 @@ AU  - Zha, Z.
 AU  - Wang, B.
 AU  - Fan, H.
 AU  - Liu, L.
-T2  - Communications in Computer and Information Science
+C3  - Communications in Computer and Information Science
 DA  - 2021///
 PY  - 2021
 DO  - 10.1007/978-981-16-5188-5_22
@@ -731,7 +713,6 @@ VL  - 1449
 SP  - 303
 EP  - 318
 UR  - https://www.scopus.com/pages/publications/85115156056?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Electric batteries
@@ -767,7 +748,6 @@ PY  - 2026
 DO  - 10.1016/j.compeleceng.2026.110945
 VL  - 131
 UR  - https://www.scopus.com/pages/publications/105027934917?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Electric batteries
@@ -811,14 +791,13 @@ AU  - Mingyue, S.
 AU  - Yanhong, J.
 AU  - Qian, W.
 AU  - Yirong, W.
-T2  - Proceedings - 2021 IEEE International Conference on Energy Internet, ICEI 2021
+C3  - Proceedings - 2021 IEEE International Conference on Energy Internet, ICEI 2021
 DA  - 2021///
 PY  - 2021
 DO  - 10.1109/ICEI52466.2021.00008
 SP  - 6
 EP  - 12
 UR  - https://www.scopus.com/pages/publications/85127072763?origin=resultslist
-DB  - Scopus
 KW  - Markov processes
 KW  - Reinforcement learning
 KW  - Battery energy storage
@@ -862,7 +841,6 @@ VL  - 22
 SP  - 8386
 EP  - 8399
 UR  - https://www.scopus.com/pages/publications/105001590607?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
 KW  - Reinforcement learning
 KW  - Battery energy storage
@@ -919,14 +897,13 @@ ER  -
 TY  - CONF
 TI  - Model-Based Reinforcement Learning for Distributed Energy Trading in Data Center Microgrids
 AU  - Hao, Q.
-T2  - 2025 5th International Conference on Intelligent Power and Systems, ICIPS 2025
+C3  - 2025 5th International Conference on Intelligent Power and Systems, ICIPS 2025
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/ICIPS67876.2025.11331999
 SP  - 239
 EP  - 242
 UR  - https://www.scopus.com/pages/publications/105034492737?origin=resultslist
-DB  - Scopus
 KW  - Digital storage
 KW  - Power markets
 KW  - Reinforcement learning
@@ -970,14 +947,13 @@ AU  - Minuto, F.D.
 AU  - Papurello, D.
 AU  - Meneghetti, F.
 AU  - Lanzini, A.
-T2  - Proceedings - 2025 IEEE 49th Annual Computers, Software, and Applications Conference, COMPSAC 2025
+C3  - Proceedings - 2025 IEEE 49th Annual Computers, Software, and Applications Conference, COMPSAC 2025
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/COMPSAC65507.2025.00287
 SP  - 2053
 EP  - 2059
 UR  - https://www.scopus.com/pages/publications/105016234424?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Digital storage
 KW  - Learning algorithms
@@ -1025,7 +1001,6 @@ DO  - 10.3390/en19041084
 VL  - 19
 IS  - 4
 UR  - https://www.scopus.com/pages/publications/105031048816?origin=resultslist
-DB  - Scopus
 KW  - Digital storage
 KW  - Learning systems
 KW  - machine learning
@@ -1067,13 +1042,12 @@ AU  - Rehman, A.U.
 AU  - Sanjari, M.J.
 AU  - Lu, J.
 AU  - Du, B.
-T2  - Australasian Universities Power Engineering Conference, AUPEC
+C3  - Australasian Universities Power Engineering Conference, AUPEC
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/AUPEC66173.2025.11219647
 IS  - 2025
 UR  - https://www.scopus.com/pages/publications/105031075200?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -1124,7 +1098,6 @@ IS  - 6
 SP  - 4909
 EP  - 4917
 UR  - https://www.scopus.com/pages/publications/85131820716?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Digital storage
 KW  - Electric batteries
@@ -1178,7 +1151,6 @@ SP  - 858
 EP  - 869
 ST  - 基于强化学习的新能源场站储能一次调频自适应控制策略
 UR  - https://www.scopus.com/pages/publications/85195500314?origin=resultslist
-DB  - Scopus
 KW  - reinforcement learning
 KW  - adaptive control
 KW  - battery energy storage
@@ -1199,7 +1171,6 @@ VL  - 13
 SP  - 12081
 EP  - 12102
 UR  - https://www.scopus.com/pages/publications/85215583979?origin=resultslist
-DB  - Scopus
 KW  - Optimization
 KW  - Renewable energy
 KW  - Energy storage
@@ -1252,7 +1223,6 @@ IS  - 2
 SP  - 910
 EP  - 921
 UR  - https://www.scopus.com/pages/publications/85180355521?origin=resultslist
-DB  - Scopus
 KW  - Electric batteries
 KW  - Power markets
 KW  - Reinforcement learning
@@ -1299,7 +1269,6 @@ PY  - 2025
 DO  - 10.1016/j.est.2025.115496
 VL  - 112
 UR  - https://www.scopus.com/pages/publications/85216205296?origin=resultslist
-DB  - Scopus
 KW  - Microgrids
 KW  - Electric vehicles
 KW  - Flow batteries
@@ -1365,14 +1334,13 @@ TI  - Reinforcement Learning for Battery Energy Storage Dispatch augmented with 
 AU  - Krishnamoorthy, G.
 AU  - Dubey, A.
 AU  - Gebremedhin, A.H.
-T2  - 2021 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, SmartGridComm 2021
+C3  - 2021 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, SmartGridComm 2021
 DA  - 2021///
 PY  - 2021
 DO  - 10.1109/SmartGridComm51999.2021.9632292
 SP  - 289
 EP  - 294
 UR  - https://www.scopus.com/pages/publications/85123951767?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
 KW  - Electric batteries
 KW  - Learning algorithms
@@ -1421,7 +1389,6 @@ DO  - 10.3390/en14248365
 VL  - 14
 IS  - 24
 UR  - https://www.scopus.com/pages/publications/85121240926?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -1470,7 +1437,6 @@ IS  - 6
 SP  - 5144
 EP  - 5157
 UR  - https://www.scopus.com/pages/publications/105006817600?origin=resultslist
-DB  - Scopus
 KW  - Optimization
 KW  - Reinforcement learnings
 KW  - Solar energy
@@ -1513,14 +1479,13 @@ AU  - Xu, Y.
 AU  - Xia, Y.
 AU  - Xie, D.
 AU  - Zhang, R.
-T2  - 2025 IEEE PES Innovative Smart Grid Technologies - Asia, ISGT Asia 2025
+C3  - 2025 IEEE PES Innovative Smart Grid Technologies - Asia, ISGT Asia 2025
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/ISGTAsia63446.2025.11431285
 SP  - 96
 EP  - 100
 UR  - https://www.scopus.com/pages/publications/105036383046?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Digital storage
@@ -1570,7 +1535,6 @@ IS  - 1
 SP  - 413
 EP  - 424
 UR  - https://www.scopus.com/pages/publications/105013244657?origin=resultslist
-DB  - Scopus
 KW  - Markov processes
 KW  - Reinforcement learnings
 KW  - Solar energy
@@ -1614,19 +1578,17 @@ T2  - IEEE Power and Energy Society General Meeting
 DA  - 2024///
 PY  - 2024
 UR  - https://www.scopus.com/pages/publications/85207465341?origin=resultslist
-DB  - Scopus
 KW  - E6
 ER  - 
 
 TY  - CONF
 TI  - Optimal Scheduled Control Operation of Battery Energy Storage System using Model-Free Reinforcement Learning
 AU  - Selim, A.
-T2  - Proceedings - 2022 IEEE Sustainable Power and Energy Conference, iSPEC 2022
+C3  - Proceedings - 2022 IEEE Sustainable Power and Energy Conference, iSPEC 2022
 DA  - 2022///
 PY  - 2022
 DO  - 10.1109/iSPEC54162.2022.10033035
 UR  - https://www.scopus.com/pages/publications/85148630144?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -1672,7 +1634,6 @@ PY  - 2022
 DO  - 10.1109/PESGM48719.2022.9917082
 VL  - 2022-July
 UR  - https://www.scopus.com/pages/publications/85141539705?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Digital storage
 KW  - Learning algorithms
@@ -1711,7 +1672,6 @@ PY  - 2025
 DO  - 10.1016/j.egyai.2025.100653
 VL  - 22
 UR  - https://www.scopus.com/pages/publications/105023216571?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -1748,7 +1708,6 @@ T2  - 2024 56th North American Power Symposium, NAPS 2024
 DA  - 2024///
 PY  - 2024
 UR  - https://www.scopus.com/pages/publications/85212149259?origin=resultslist
-DB  - Scopus
 KW  - E6
 ER  - 
 
@@ -1767,7 +1726,6 @@ DO  - 10.3390/batteries12010031
 VL  - 12
 IS  - 1
 UR  - https://www.scopus.com/pages/publications/105028491983?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -1810,14 +1768,13 @@ TY  - CONF
 TI  - Learning to Arbitrage Battery Energy Storage using Deep Q-Networks with Hyperparameter Tuning
 AU  - Bohara, B.
 AU  - Krishnamoorthy, H.S.
-T2  - INTELEC, International Telecommunications Energy Conference (Proceedings)
+C3  - INTELEC, International Telecommunications Energy Conference (Proceedings)
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/INTELEC63987.2025.11214751
 SP  - 120
 EP  - 125
 UR  - https://www.scopus.com/pages/publications/105022432783?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -1871,7 +1828,6 @@ DA  - 2023///
 PY  - 2023
 VL  - 1030 LNEE
 UR  - https://www.scopus.com/pages/publications/85161445040?origin=resultslist
-DB  - Scopus
 KW  - E6
 ER  - 
 
@@ -1883,14 +1839,13 @@ AU  - Zhang, Y.
 AU  - Zou, S.
 AU  - Liang, X.
 AU  - Bao, T.
-T2  - 2023 IEEE International Conference on Power Science and Technology, ICPST 2023
+C3  - 2023 IEEE International Conference on Power Science and Technology, ICPST 2023
 DA  - 2023///
 PY  - 2023
 DO  - 10.1109/ICPST56889.2023.10165606
 SP  - 819
 EP  - 826
 UR  - https://www.scopus.com/pages/publications/85165703432?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
 KW  - Electric batteries
 KW  - Reinforcement learning
@@ -1940,41 +1895,40 @@ AU  - Yan, J.
 AU  - Hong, Y.
 AU  - Wang, K.
 AU  - Yang, J.
-T2  - 2026 IEEE International Conference on Power, Electronics and Green Energy, ICPEGE 2026
+C3  - 2026 IEEE International Conference on Power, Electronics and Green Energy, ICPEGE 2026
 DA  - 2026///
 PY  - 2026
 DO  - 10.1109/ICPEGE67691.2026.11451305
 SP  - 83
 EP  - 87
 UR  - https://www.scopus.com/pages/publications/105037433778?origin=resultslist
-DB  - Scopus
-KW  - Batteries
-KW  - Complementary systems
-KW  - Costs
-KW  - Deep reinforcement learning
-KW  - Deep Reinforcement Learning
-KW  - Electric load dispatching
-KW  - Feature extraction
-KW  - Fluctuations
-KW  - Heat storage
-KW  - Hybrid power systems
-KW  - Multi energy
-KW  - Optimal scheduling
-KW  - Optimal scheduling strategies
 KW  - Optimization
-KW  - Power
-KW  - Power system stability
 KW  - Reinforcement learnings
+KW  - Wind power
+KW  - Electric load dispatching
 KW  - Renewable energies
+KW  - Deep reinforcement learning
 KW  - Renewable energy
+KW  - Power
+KW  - Costs
+KW  - Complementary systems
+KW  - Deep Reinforcement Learning
+KW  - Heat storage
+KW  - Multi energy
+KW  - Optimal scheduling strategies
 KW  - system scheduling
 KW  - System scheduling
 KW  - Thermal storage
-KW  - Wind power
-KW  - Wind power generation
 KW  - Wind turbines
 KW  - wind-fire-storage hybrid system
 KW  - Wind-fire-storage hybrid system
+KW  - Power system stability
+KW  - Fluctuations
+KW  - Batteries
+KW  - Optimal scheduling
+KW  - Feature extraction
+KW  - Hybrid power systems
+KW  - Wind power generation
 KW  - E2
 ER  - 
 
@@ -1986,14 +1940,13 @@ AU  - Sun, G.
 AU  - Wang, J.
 AU  - Lu, C.
 AU  - Wen, F.
-T2  - 2024 8th International Conference on Power Energy Systems and Applications, ICoPESA 2024
+C3  - 2024 8th International Conference on Power Energy Systems and Applications, ICoPESA 2024
 DA  - 2024///
 PY  - 2024
 DO  - 10.1109/ICOPESA61191.2024.10743542
 SP  - 585
 EP  - 590
 UR  - https://www.scopus.com/pages/publications/85211502212?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -2040,7 +1993,6 @@ DA  - 2025///
 PY  - 2025
 DO  - 10.1109/TEMPR.2025.3645733
 UR  - https://www.scopus.com/pages/publications/105025660948?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
 KW  - Optimization
 KW  - Reinforcement learnings
@@ -2081,13 +2033,12 @@ TI  - Optimal Energy Storage Scheduling for Wind Curtailment Reduction and Energ
 AU  - Li, J.
 AU  - Wang, C.
 AU  - Wang, H.
-T2  - IEEE Power and Energy Society General Meeting
+C3  - IEEE Power and Energy Society General Meeting
 DA  - 2023///
 PY  - 2023
 DO  - 10.1109/PESGM52003.2023.10253181
 VL  - 2023-July
 UR  - https://www.scopus.com/pages/publications/85174744258?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -2128,12 +2079,11 @@ TI  - Learning to control a battery through reinforcement: Balancing lifetime an
 AU  - Neves, C.S.
 AU  - Čović, N.
 AU  - Cremer, J.L.
-T2  - 2025 IEEE Kiel PowerTech, PowerTech 2025
+C3  - 2025 IEEE Kiel PowerTech, PowerTech 2025
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/PowerTech59965.2025.11180449
 UR  - https://www.scopus.com/pages/publications/105019305718?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -2184,7 +2134,6 @@ IS  - 3
 SP  - 4533
 EP  - 4544
 UR  - https://www.scopus.com/pages/publications/85162860362?origin=resultslist
-DB  - Scopus
 KW  - Battery management systems
 KW  - Deep learning
 KW  - Electric load dispatching
@@ -2242,12 +2191,11 @@ IS  - 2
 SP  - 324
 EP  - 347
 UR  - https://www.scopus.com/pages/publications/105034274759?origin=resultslist
-DB  - Scopus
+KW  - Reinforcement Learning
 KW  - Battery Energy Storage System
 KW  - Energy Management
 KW  - Large Language Models
 KW  - Proximal Policy Optimization
-KW  - Reinforcement Learning
 KW  - Not retrieved
 ER  - 
 
@@ -2257,12 +2205,11 @@ AU  - Bhatakar, P.
 AU  - Viyanwar, K.
 AU  - Dandekar, P.
 AU  - Chaudhari, I.
-T2  - National Power Electronics Conference, NPEC 2025
+C3  - National Power Electronics Conference, NPEC 2025
 DA  - 2025///
 PY  - 2025
 DO  - 10.1109/NPEC66512.2025.11450246
 UR  - https://www.scopus.com/pages/publications/105037444065?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -2312,12 +2259,11 @@ AU  - Mu, C.
 AU  - Rasheed, N.
 AU  - Khan, T.
 AU  - Ullah, H.
-T2  - 2021 International Conference on Computing, Electronic and Electrical Engineering, ICE Cube 2021 - Proceedings
+C3  - 2021 International Conference on Computing, Electronic and Electrical Engineering, ICE Cube 2021 - Proceedings
 DA  - 2021///
 PY  - 2021
 DO  - 10.1109/ICECube53880.2021.9628210
 UR  - https://www.scopus.com/pages/publications/85123783516?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -2361,7 +2307,6 @@ DO  - 10.3390/en17163898
 VL  - 17
 IS  - 16
 UR  - https://www.scopus.com/pages/publications/85202433927?origin=resultslist
-DB  - Scopus
 KW  - Reinforcement learning
 KW  - Reinforcement learnings
 KW  - Decision making
@@ -2391,12 +2336,11 @@ TI  - Based on Reinforcement Learning for Power Command Allocation of Battery En
 AU  - Yin, L.
 AU  - Wang, F.
 AU  - Chen, X.
-T2  - Asia-Pacific Power and Energy Engineering Conference, APPEEC
+C3  - Asia-Pacific Power and Energy Engineering Conference, APPEEC
 DA  - 2024///
 PY  - 2024
 DO  - 10.1109/APPEEC61255.2024.10922508
 UR  - https://www.scopus.com/pages/publications/105002249038?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
 KW  - reinforcement learning
 KW  - Reinforcement learning
@@ -2441,7 +2385,6 @@ IS  - 3
 SP  - 392
 EP  - 406
 UR  - https://www.scopus.com/pages/publications/105022104080?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -2488,7 +2431,6 @@ PY  - 2021
 DO  - 10.3389/fenrg.2021.750796
 VL  - 9
 UR  - https://www.scopus.com/pages/publications/85117696028?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Power markets
 KW  - Reinforcement learning
@@ -2529,7 +2471,6 @@ PY  - 2023
 DO  - 10.1016/j.egyai.2023.100280
 VL  - 14
 UR  - https://www.scopus.com/pages/publications/85164296901?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Digital storage
@@ -2576,7 +2517,6 @@ IS  - 5
 SP  - 7205
 EP  - 7215
 UR  - https://www.scopus.com/pages/publications/85184322121?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -2624,7 +2564,6 @@ DO  - 10.3390/computers14020065
 VL  - 14
 IS  - 2
 UR  - https://www.scopus.com/pages/publications/85218888961?origin=resultslist
-DB  - Scopus
 KW  - reinforcement learning
 KW  - demand response
 KW  - peer-to-peer energy trading
@@ -2641,7 +2580,6 @@ PY  - 2020
 DO  - 10.1016/j.est.2020.101272
 VL  - 28
 UR  - https://www.scopus.com/pages/publications/85079628840?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Electric batteries
@@ -2688,7 +2626,6 @@ PY  - 2025
 DO  - 10.1016/j.apenergy.2025.125561
 VL  - 388
 UR  - https://www.scopus.com/pages/publications/86000331695?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - machine learning
@@ -2732,38 +2669,37 @@ PY  - 2021
 DO  - 10.1016/j.apenergy.2021.117129
 VL  - 297
 UR  - https://www.scopus.com/pages/publications/85107042062?origin=resultslist
-DB  - Scopus
-KW  - algorithm
-KW  - atmospheric electricity
 KW  - Battery storage
-KW  - Battery storage energies
-KW  - Costs
-KW  - decision making
+KW  - Electric batteries
+KW  - Power markets
+KW  - Reinforcement learning
 KW  - Decision making
+KW  - Photovoltaics
+KW  - Smart grid
+KW  - algorithm
+KW  - energy storage
+KW  - Electric power transmission networks
+KW  - Energy storage
+KW  - Energy
+KW  - Smart power grids
+KW  - Costs
+KW  - Peer to peer
+KW  - Energy utilization
+KW  - Solar power generation
+KW  - Battery storage energies
+KW  - market conditions
+KW  - atmospheric electricity
+KW  - decision making
 KW  - detection method
 KW  - Distributed solar
 KW  - Dynamic pricing
-KW  - Electric batteries
-KW  - Electric power transmission networks
 KW  - electricity
-KW  - Energy
 KW  - Energy sharings
-KW  - energy storage
-KW  - Energy storage
-KW  - Energy utilization
+KW  - P2P sharing
+KW  - Q-learning
+KW  - smart grid
 KW  - FRAMEWORK
 KW  - GAME-THEORETIC APPROACH
-KW  - market conditions
-KW  - P2P sharing
-KW  - Peer to peer
-KW  - Photovoltaics
-KW  - Power markets
-KW  - Q-learning
-KW  - Reinforcement learning
-KW  - smart grid
-KW  - Smart grid
-KW  - Smart power grids
-KW  - Solar power generation
 KW  - E3
 ER  - 
 
@@ -2772,14 +2708,13 @@ TI  - Diffusion-Based Forecasting for Uncertainty-Aware Model Predictive Control
 AU  - Zarifis, S.
 AU  - Kordonis, I.
 AU  - Maragos, P.
-T2  - European Signal Processing Conference
+C3  - European Signal Processing Conference
 DA  - 2025///
 PY  - 2025
 DO  - 10.23919/EUSIPCO63237.2025.11226479
 SP  - 1877
 EP  - 1881
 UR  - https://www.scopus.com/pages/publications/105029873369?origin=resultslist
-DB  - Scopus
 KW  - Power markets
 KW  - Reinforcement learning
 KW  - Reinforcement learnings
@@ -2829,7 +2764,6 @@ PY  - 2024
 DO  - 10.1016/j.est.2024.114377
 VL  - 104
 UR  - https://www.scopus.com/pages/publications/85208146883?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Reinforcement learning
@@ -2866,7 +2800,6 @@ VL  - 13
 SP  - 3209
 EP  - 3223
 UR  - https://www.scopus.com/pages/publications/105020933309?origin=resultslist
-DB  - Scopus
 KW  - Optimization
 KW  - Reinforcement learning
 KW  - Reinforcement learnings
@@ -2928,7 +2861,6 @@ IS  - 3
 SP  - 1739
 EP  - 1750
 UR  - https://www.scopus.com/pages/publications/85122874248?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Digital storage
 KW  - Reinforcement learning
@@ -2965,13 +2897,12 @@ TY  - CONF
 TI  - Coordinated Multi-Agent Reinforcement Learning for Swarm Battery Control
 AU  - Ebell, N.
 AU  - Pruckner, M.
-T2  - Canadian Conference on Electrical and Computer Engineering
+C3  - Canadian Conference on Electrical and Computer Engineering
 DA  - 2018///
 PY  - 2018
 DO  - 10.1109/CCECE.2018.8447851
 VL  - 2018-May
 UR  - https://www.scopus.com/pages/publications/85053601013?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage systems
 KW  - Battery storage
 KW  - Electric batteries
@@ -3010,13 +2941,18 @@ AU  - Wang, Z.
 AU  - Gao, Y.
 T2  - Journal of Renewable and Sustainable Energy
 DA  - 2025///
-PY  - 2024
+PY  - 2025
 DO  - 10.1063/5.0242836
 VL  - 17
 IS  - 1
 UR  - https://www.scopus.com/pages/publications/85216103482?origin=resultslist
-DB  - Scopus
 KW  - Battery storage
+KW  - Reinforcement learning
+KW  - Smart grid
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Reinforcement learning approach
+KW  - Smart power grids
 KW  - Costs
 KW  - Electricity users
 KW  - Load profiles
@@ -3025,13 +2961,7 @@ KW  - Pricing models
 KW  - Pricing strategy
 KW  - Profile formation
 KW  - Real time pricing
-KW  - Reinforcement learning
-KW  - Reinforcement learning approach
 KW  - Resource allocation
-KW  - Smart grid
-KW  - Smart power grids
-KW  - Stochastic models
-KW  - Stochastic systems
 KW  - Utility/preference
 KW  - E2
 ER  - 
@@ -3052,7 +2982,6 @@ VL  - 12
 SP  - 5066
 EP  - 5082
 UR  - https://www.scopus.com/pages/publications/85208288862?origin=resultslist
-DB  - Scopus
 KW  - Battery energy storage system
 KW  - Battery energy storage systems
 KW  - Battery storage
@@ -3084,14 +3013,13 @@ AU  - Ishigame, A
 AU  - Hashikawa, K
 AU  - Kuwashita, Y
 T2  - JOURNAL OF ENGINEERING-JOE
-DA  - 2023/01//undefined
+DA  - 2023/01//
 PY  - 2023
 DO  - 10.1049/tje2.12205
 VL  - 2023
 IS  - 1
 LA  - English
 SN  - 2051-3305
-AN  - WOS:000870262100001
 KW  - MODEL
 KW  - ELECTRIC VEHICLES
 KW  - GENERATION
@@ -3108,13 +3036,12 @@ AU  - Xia, L
 AU  - Zhao, QC
 AU  - Guan, XH
 T2  - RESULTS IN CONTROL AND OPTIMIZATION
-DA  - 2021/09//undefined
+DA  - 2021/09//
 PY  - 2021
 DO  - 10.1016/j.rico.2021.100030
 VL  - 4
 LA  - English
 SN  - 2666-7207
-AN  - WOS:001208920900001
 KW  - Reinforcement learning
 KW  - Wind power
 KW  - Battery energy storage
@@ -3145,7 +3072,6 @@ VL  - 12
 IS  - 15
 LA  - English
 SN  - 1996-1073
-AN  - WOS:000482174800051
 KW  - battery energy storage system
 KW  - bidding strategy
 KW  - MODEL
@@ -3171,8 +3097,8 @@ AU  - Verwee, MS
 AU  - Claessens, B
 AU  - Develder, C
 AU  - ACM
-T2  - PROCEEDINGS OF THE 15TH ACM INTERNATIONAL CONFERENCE ON FUTURE AND SUSTAINABLE ENERGY SYSTEMS, E-ENERGY 2024
-C3  - Ghent University
+T2  - Ghent University
+C3  - PROCEEDINGS OF THE 15TH ACM INTERNATIONAL CONFERENCE ON FUTURE AND SUSTAINABLE ENERGY SYSTEMS, E-ENERGY 2024
 DA  - 2024///
 PY  - 2024
 DO  - 10.1145/3632775.3661948
@@ -3180,7 +3106,6 @@ SP  - 123
 EP  - 133
 LA  - English
 SN  - 979-8-4007-0480-2
-AN  - WOS:001556583400010
 KW  - Battery energy storage systems
 KW  - energy arbitrage
 KW  - distributional reinforcement learning
@@ -3207,7 +3132,6 @@ SP  - 101
 EP  - 114
 LA  - English
 SN  - 0360-5442
-AN  - WOS:000472686300009
 KW  - Wind curtailment
 KW  - MODEL
 KW  - SYSTEM
@@ -3269,7 +3193,7 @@ AU  - J. -C. Liao
 AU  - C. -Y. Hsueh
 T2  - 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 C3  - 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
-DA  - 2025/06/27/30
+DA  - 2025/06/27/
 PY  - 2025
 DO  - 10.1109/IS3C65361.2025.11130992
 SP  - 1
@@ -3298,7 +3222,7 @@ AU  - J. F. Maripangui
 AU  - E. Gil
 T2  - 2025 IEEE PES 35th Australasian Universities Power Engineering Conference (AUPEC)
 C3  - 2025 IEEE PES 35th Australasian Universities Power Engineering Conference (AUPEC)
-DA  - 2025/10/29/Sept.-1
+DA  - 2025/10/29/
 PY  - 2025
 DO  - 10.1109/AUPEC66173.2025.11219629
 SP  - 1
@@ -3331,7 +3255,7 @@ AU  - G. Chen
 AU  - S. Wen
 T2  - 2022 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
 C3  - 2022 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
-DA  - 2022/11/01/5
+DA  - 2022/11/01/
 PY  - 2022
 DO  - 10.1109/ISGTAsia54193.2022.10003511
 SP  - 424
@@ -3399,7 +3323,7 @@ AU  - C. Gao
 AU  - S. Guan
 T2  - 2023 5th International Conference on Power and Energy Technology (ICPET)
 C3  - 2023 5th International Conference on Power and Energy Technology (ICPET)
-DA  - 2023/07/27/30
+DA  - 2023/07/27/
 PY  - 2023
 DO  - 10.1109/ICPET59380.2023.10367600
 SP  - 1365
@@ -3429,7 +3353,7 @@ AU  - X. Qiu
 AU  - W. Zou
 T2  - 2025 China Automation Congress (CAC)
 C3  - 2025 China Automation Congress (CAC)
-DA  - 2025/09/26/28
+DA  - 2025/09/26/
 PY  - 2025
 DO  - 10.1109/CAC67268.2025.11486598
 SP  - 3931
@@ -3461,7 +3385,7 @@ AU  - C. Deng
 AU  - X. Wang
 T2  - 2020 5th IEEE International Conference on Big Data Analytics (ICBDA)
 C3  - 2020 5th IEEE International Conference on Big Data Analytics (ICBDA)
-DA  - 2020/05/08/11
+DA  - 2020/05/08/
 PY  - 2020
 DO  - 10.1109/ICBDA49040.2020.9099946
 SP  - 37
@@ -3486,7 +3410,7 @@ AU  - R. Fan
 AU  - D. Wu
 T2  - 2025 57th North American Power Symposium (NAPS)
 C3  - 2025 57th North American Power Symposium (NAPS)
-DA  - 2025/10/26/28
+DA  - 2025/10/26/
 PY  - 2025
 DO  - 10.1109/NAPS66256.2025.11272197
 SP  - 1
@@ -3553,7 +3477,7 @@ AU  - S. N. K. Marwat
 AU  - M. Nasir
 T2  - 2023 6th International Conference on Energy Conservation and Efficiency (ICECE)
 C3  - 2023 6th International Conference on Energy Conservation and Efficiency (ICECE)
-DA  - 2023/03/15/16
+DA  - 2023/03/15/
 PY  - 2023
 DO  - 10.1109/ICECE58062.2023.10092514
 SP  - 1
@@ -3584,7 +3508,7 @@ AU  - X. Han
 AU  - G. Chen
 T2  - 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)
 C3  - 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2)
-DA  - 2023/12/15/18
+DA  - 2023/12/15/
 PY  - 2023
 DO  - 10.1109/EI259745.2023.10512672
 SP  - 4448
@@ -3611,7 +3535,7 @@ AU  - D. Yue
 AU  - N. Zhao
 T2  - 2020 Chinese Automation Congress (CAC)
 C3  - 2020 Chinese Automation Congress (CAC)
-DA  - 2020/11/06/8
+DA  - 2020/11/06/
 PY  - 2020
 DO  - 10.1109/CAC51589.2020.9326507
 SP  - 4049
@@ -3638,7 +3562,7 @@ AU  - K. Kawabe
 AU  - R. Chatthaworn
 T2  - 2025 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
 C3  - 2025 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)
-DA  - 2025/11/07/9
+DA  - 2025/11/07/
 PY  - 2025
 DO  - 10.1109/ISGTAsia63446.2025.11431376
 SP  - 23
@@ -3670,7 +3594,7 @@ AU  - J. Zhao
 AU  - S. Zuo
 T2  - IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society
 C3  - IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society
-DA  - 2024/11/03/6
+DA  - 2024/11/03/
 PY  - 2024
 DO  - 10.1109/IECON55916.2024.10905840
 SP  - 1
@@ -3702,7 +3626,7 @@ AU  - S. Sun
 AU  - J. Huang
 T2  - 2024 4th International Conference on New Energy and Power Engineering (ICNEPE)
 C3  - 2024 4th International Conference on New Energy and Power Engineering (ICNEPE)
-DA  - 2024/11/08/10
+DA  - 2024/11/08/
 PY  - 2024
 DO  - 10.1109/ICNEPE64067.2024.10860724
 SP  - 904
@@ -3732,7 +3656,7 @@ AU  - A. Wijethunge
 AU  - J. Ekanayake
 T2  - TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)
 C3  - TENCON 2025 - 2025 IEEE Region 10 Conference (TENCON)
-DA  - 2025/10/27/30
+DA  - 2025/10/27/
 PY  - 2025
 DO  - 10.1109/TENCON66050.2025.11375188
 SP  - 1088
@@ -3763,7 +3687,7 @@ AU  - K. Roy
 AU  - P. P. Singh
 T2  - 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC)
 C3  - 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC)
-DA  - 2025/12/10/13
+DA  - 2025/12/10/
 PY  - 2025
 DO  - 10.1109/STPEC66316.2025.11490913
 SP  - 1
@@ -3793,7 +3717,7 @@ AU  - C. S. Lai
 AU  - L. L. Lai
 T2  - Energy Storage Conference 2023 (ESC 2023)
 C3  - Energy Storage Conference 2023 (ESC 2023)
-DA  - 2023/11/15/16
+DA  - 2023/11/15/
 PY  - 2023
 DO  - 10.1049/icp.2023.3100
 VL  - 2023
@@ -3843,7 +3767,7 @@ AU  - A. Ukil
 AU  - A. Swain
 T2  - 2024 IEEE Green Technologies Conference (GreenTech)
 C3  - 2024 IEEE Green Technologies Conference (GreenTech)
-DA  - 2024/04/03/5
+DA  - 2024/04/03/
 PY  - 2024
 DO  - 10.1109/GreenTech58819.2024.10520418
 SP  - 1
@@ -3906,7 +3830,7 @@ AU  - V. U. Rani
 AU  - P. Naresh
 T2  - 2025 IEEE Silchar Subsection Conference (SILCON)
 C3  - 2025 IEEE Silchar Subsection Conference (SILCON)
-DA  - 2025/11/06/8
+DA  - 2025/11/06/
 PY  - 2025
 DO  - 10.1109/SILCON67893.2025.11327006
 SP  - 1
@@ -3975,7 +3899,7 @@ AU  - H. Mo
 AU  - H. Pota
 T2  - 2022 IEEE 5th Student Conference on Electric Machines and Systems (SCEMS)
 C3  - 2022 IEEE 5th Student Conference on Electric Machines and Systems (SCEMS)
-DA  - 2022/11/24/26
+DA  - 2022/11/24/
 PY  - 2022
 DO  - 10.1109/SCEMS56272.2022.9990764
 SP  - 1
@@ -4039,7 +3963,7 @@ AU  - B. Xu
 AU  - Y. Xiang
 T2  - 2022 7th Asia Conference on Power and Electrical Engineering (ACPEE)
 C3  - 2022 7th Asia Conference on Power and Electrical Engineering (ACPEE)
-DA  - 2022/04/15/17
+DA  - 2022/04/15/
 PY  - 2022
 DO  - 10.1109/ACPEE53904.2022.9783653
 SP  - 2002
@@ -4065,7 +3989,7 @@ AU  - R. Krishna
 AU  - M. Mahesh
 T2  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
 C3  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
-DA  - 2025/10/11/13
+DA  - 2025/10/11/
 PY  - 2025
 DO  - 10.1109/GIEST66547.2025.11387558
 SP  - 1
@@ -4096,7 +4020,7 @@ AU  - M. Kabeya
 AU  - E. E. Ojo
 T2  - 2025 Conference on Information Communications Technology and Society (ICTAS)
 C3  - 2025 Conference on Information Communications Technology and Society (ICTAS)
-DA  - 2025/07/23/25
+DA  - 2025/07/23/
 PY  - 2025
 DO  - 10.1109/ICTAS64866.2025.11155772
 SP  - 1
@@ -4134,7 +4058,7 @@ AU  - T. Westover
 AU  - Y. Luo
 T2  - 2022 IEEE/PES Transmission and Distribution Conference and Exposition (T&D)
 C3  - 2022 IEEE/PES Transmission and Distribution Conference and Exposition (T&D)
-DA  - 2022/04/25/28
+DA  - 2022/04/25/
 PY  - 2022
 DO  - 10.1109/TD43745.2022.9816903
 SP  - 1
@@ -4290,7 +4214,7 @@ AU  - R. G. Salgado
 AU  - R. Gomez
 T2  - 2025 IEEE Electrical Insulation Conference (EIC)
 C3  - 2025 IEEE Electrical Insulation Conference (EIC)
-DA  - 2025/06/08/11
+DA  - 2025/06/08/
 PY  - 2025
 DO  - 10.1109/EIC63069.2025.11123269
 SP  - 1
@@ -4359,7 +4283,7 @@ AU  - C. H. Vermette
 AU  - U. Eicker
 T2  - 2025 IEEE International Conference on Energy Technologies for Future Grids (ETFG)
 C3  - 2025 IEEE International Conference on Energy Technologies for Future Grids (ETFG)
-DA  - 2025/12/07/11
+DA  - 2025/12/07/
 PY  - 2025
 DO  - 10.1109/ETFG61999.2025.11402056
 SP  - 1
@@ -4456,7 +4380,7 @@ AU  - S. Hashunao
 AU  - R. K. Mehta
 T2  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
 C3  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
-DA  - 2025/10/11/13
+DA  - 2025/10/11/
 PY  - 2025
 DO  - 10.1109/GIEST66547.2025.11387557
 SP  - 1
@@ -4616,15 +4540,15 @@ ER  -
 
 TY  - JOUR
 TI  - Enhancing Battery Storage Energy Arbitrage With Deep Reinforcement Learning and Time-Series Forecasting
-AU  - Sage, Manuel; Campbell, Joshua; Zhao, Yaoyao Fiona
+AU  - Sage, Manuel
+AU  - Campbell, Joshua
+AU  - Zhao, Yaoyao Fiona
 T2  - ASME 2024 18th International Conference on Energy Sustainability
 DA  - 2024///
 PY  - 2024
 DO  - 10.1115/es2024-130538
 VL  - NA
 IS  - NA
-SP  - NA
-EP  - NA
 PB  - American Society of Mechanical Engineers
 KW  - Battery storage
 KW  - Electricity prices
@@ -4650,3 +4574,305 @@ KW  - SHORT-TERM-MEMORY
 KW  - Include
 KW  - Full-text info extracted
 ER  - 
+
+TY  - JOUR
+TI  - Reinforcement Learning for Optimized Multi-Use Operation of Battery Energy Storage Systems
+AU  - Kortmann, Steffen
+AU  - Zoller, Norman
+AU  - Bouchkati, Sarra
+AU  - Böttcher, Luis
+AU  - Ulbig, Andreas
+T2  - ACM SIGEnergy Energy Informatics Review
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3777518.3777532
+VL  - 5
+IS  - 3
+SP  - 169
+EP  - 178
+KW  - reinforcement learning
+KW  - battery energy storage systems
+KW  - decision making
+KW  - Include
+KW  - Full-text info extracted
+KW  - markov decision process
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Objective Reinforcement Learning with Shielding for Control and Safety in Power Grids
+AU  - Demirel, Gökhan
+AU  - Grafenhorst, Simon
+AU  - Ohm, Jakob
+AU  - Schäfer, Benjamin
+AU  - Förderer, Kevin
+AU  - Hagenmeyer, Veit
+T2  - SIGENERGY Energy Inform. Rev.
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1145/3777518.3777526
+VL  - 5
+IS  - 3
+SP  - 93
+EP  - 104
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3777518.3777526
+KW  - voltage control
+KW  - energy management
+KW  - multi-objective reinforcement learning
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - The Impact of Load Forecasting Model Choice on the Economic Operation of Industrial Energy Storage
+AU  - Katholnigg, Manuel
+AU  - Goebel, Christoph
+T2  - Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3736425.3772098
+SP  - 12
+EP  - 22
+SN  - 979-8-4007-1945-5
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3736425.3772098
+KW  - economic dispatch
+KW  - battery energy storage system
+KW  - deep learning
+KW  - forecast evaluation
+KW  - probabilistic load forecasting
+KW  - stochastic optimization
+KW  - E1
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Dispatch and Optimization Technology in Market-Based Electricity Trading
+AU  - Wang, Zhixin
+AU  - Wang, Yong
+AU  - Li, Xiaofeng
+AU  - Feng, Shuai
+T2  - Proceedings of the 2025 International Conference on Big Data, Artificial Intelligence and Digital Economy
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3767052.3767085
+SP  - 214
+EP  - 218
+SN  - 979-8-4007-1601-0
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3767052.3767085
+KW  - Deep Reinforcement Learning
+KW  - Electricity Market
+KW  - Intelligent Dispatch
+KW  - Multi-Agent Systems
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - EnEnv 1.0: Energy Grid Environment for Multi-Agent Reinforcement Learning Benchmarking
+AU  - Bogucki, Dominik Jacek
+AU  - Lepak, Łukasz
+AU  - Parashar, Sonam
+AU  - Błachowski, Bartłomiej
+AU  - Wawrzyński, Paweł
+T2  - Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems
+DA  - 2025///
+PY  - 2025
+SP  - 361
+EP  - 370
+SN  - 979-8-4007-1426-9
+PB  - International Foundation for Autonomous Agents and Multiagent Systems
+KW  - battery energy storage system
+KW  - multi-agent reinforcement learning
+KW  - energy grid
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Microgrid energy management based on reinforcement learning
+AU  - Chen, Xiaomei
+AU  - Cai, Ye
+AU  - Zhou, Bo
+T2  - Proceedings of the 5th International Conference on Computer Information and Big Data Applications
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3671151.3671169
+SP  - 95
+EP  - 98
+SN  - 979-8-4007-1810-6
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3671151.3671169
+KW  - E2
+ER  - 
+
+TY  - CONF
+TI  - Efficient Trading of Aggregate Bidirectional EV Charging Flexibility with Reinforcement Learning
+AU  - Sales-Ortiz, Javier
+AU  - Ardakanian, Omid
+T2  - Proceedings of the 15th ACM International Conference on Future and Sustainable Energy Systems
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3632775.3661949
+SP  - 134
+EP  - 146
+SN  - 979-8-4007-0480-2
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3632775.3661949
+KW  - Reinforcement Learning
+KW  - Scheduling
+KW  - Contract Theory
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Regional Differences in Configurations of Energy Communities: Future Scenarios and Policy Implications
+AU  - Reihs, David
+AU  - Kupzog, Friederich
+AU  - De Meer, Hermann
+T2  - Proceedings of the 15th ACM International Conference on Future and Sustainable Energy Systems
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3632775.3661940
+SP  - 1
+EP  - 13
+SN  - 979-8-4007-0480-2
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3632775.3661940
+KW  - Distributed Energy Generation
+KW  - Energy Communities
+KW  - Energy Storage Sizing
+KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - A holistic review on advanced bi-directional EV charging control algorithms
+AU  - Tang, Xiaoying
+AU  - Sun, Chenxi
+AU  - Bi, Suzhi
+AU  - Wang, Shuoyao
+AU  - Zhang, Angela Yingjun
+T2  - SIGENERGY Energy Inform. Rev.
+DA  - 2022/01//
+PY  - 2022
+DO  - 10.1145/3508467.3508474
+VL  - 1
+IS  - 1
+SP  - 78
+EP  - 88
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3508467.3508474
+KW  - bi-directional charging control
+KW  - electric vehicle (EV)
+KW  - V2G
+KW  - E5
+ER  - 
+
+TY  - CONF
+TI  - SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants
+AU  - Feng, Yuzhou
+AU  - Li, Qi
+AU  - Chen, Dong
+AU  - Rangaswami, Raju
+T2  - Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3408308.3427611
+SP  - 60
+EP  - 69
+SN  - 978-1-4503-8061-4
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3408308.3427611
+KW  - Reinforcement Learning
+KW  - Deep Learning
+KW  - ML
+KW  - Solar Energy Trading
+KW  - E6
+ER  - 
+
+TY  - CONF
+TI  - Distributed Power Dispatching Solution for A Future Economic and Environment-friendly Energy Internet
+AU  - Li, Yang
+AU  - Qin, Zhaoming
+AU  - Zhang, Fan
+AU  - Qin, Yuchao
+AU  - Hua, Haochen
+AU  - Cao, Junwei
+T2  - Proceedings of the 2020 The 9th International Conference on Informatics, Environment, Energy and Applications
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3386762.3386773
+SP  - 72
+EP  - 77
+SN  - 978-1-4503-7689-1
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3386762.3386773
+KW  - Convex optimization
+KW  - distributed algorithm
+KW  - energy Internet
+KW  - power dispatching
+KW  - E1
+ER  - 
+
+TY  - CONF
+TI  - Continuous Intraday Trading: An Open-Source Multi-Market Bidding Framework for Energy Storage Systems
+AU  - Miskiw, Kim K.
+AU  - Ludwig, Jan
+AU  - Semmelmann, Leo
+AU  - Weinhardt, Christof
+T2  - Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3679240.3734631
+SP  - 277
+EP  - 292
+SN  - 979-8-4007-1125-1
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3679240.3734631
+KW  - Battery Storage
+KW  - Continuous Intraday Market
+KW  - Day-Ahead Market
+KW  - Multi-Market Bidding
+KW  - E3
+ER  - 
+
+TY  - CONF
+TI  - Analyzing the Impact of Dynamic Tariff Adoption and Regulatory Options on Distribution Grids with an Open-Source Framework
+AU  - Semmelmann, Leo
+AU  - Kaiser, Katharina
+AU  - Heider, Anya
+AU  - Kircher, Kevin J.
+AU  - Hug, Gabriela
+AU  - Weinhardt, Christof
+T2  - Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3679240.3734590
+SP  - 515
+EP  - 533
+SN  - 979-8-4007-1125-1
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3679240.3734590
+KW  - Distribution Grids
+KW  - Dynamic Tariffs
+KW  - Grid Charges
+KW  - Reinforcement
+KW  - E1
+ER  - 
+
+TY  - CONF
+TI  - On efficient operation of a V2G-enabled virtual power plant: when solar power meets bidirectional electric vehicle charging
+AU  - Rahman, Saidur
+AU  - Punt, Linda
+AU  - Ardakanian, Omid
+AU  - Ghiassi, Yashar
+AU  - Tan, Xiaoqi
+T2  - Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+DA  - 2022///
+PY  - 2022
+DO  - 10.1145/3563357.3564067
+SP  - 119
+EP  - 128
+SN  - 978-1-4503-9890-9
+PB  - Association for Computing Machinery
+UR  - https://doi.org/10.1145/3563357.3564067
+KW  - E5
+ER  - 
+
